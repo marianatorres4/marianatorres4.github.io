@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Julius Garbe"
   avatar           : "profile.png"
-  bio              : "PhD candidate and researcher at the Potsdam Institute for Climate Impact Research (PIK) at Potsdam, Germany"
+  bio              : "PhD candidate and researcher at the <a href='https://www.pik-potsdam.de/' style='color: black;'>Potsdam Institute for Climate Impact Research (PIK)</a> at Potsdam, Germany"
   location         : "Potsdam, Germany"
   employer         : # "PIK Potsdam"
   googlescholar    :  # example: "http://yourfullgooglescholarurl.com"
