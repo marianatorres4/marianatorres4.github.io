@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 - **Doctor of Philosophy (Ph.D.)**, *Climate Physics*, University of Potsdam, Germany (expected)
   - **Doctoral thesis:** *"Interactions of the Greenland and Antarctic ice sheets"*
   - **Advisor:** Prof. Dr. Ricarda Winkelmann (Potsdam Institute for Climate Impact Research)
@@ -21,33 +20,28 @@ Education
   - **Bachelor's thesis:** *"An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history"*
   - **Advisors:** Prof. Dr. Dr. h.c. mult. Jürgen Kurths and Dr. Georg Feulner (Potsdam Institute for Climate Impact Research)
 
-Research Interests and Skills
-======
+## Research Interests
 - Climate (and social) tipping interactions
 - Antarctic ice-sheet / ice-shelf stability and future sea-level change
 - Tipping points of Antarctic drainage basins
 - Response of the Antarctic Ice Sheet to Greenland ice loss via ocean dynamics
 - Hysteresis behaviour of the Antarctic Ice Sheet
   
-Scientific Background
-======
-- **Physics courses**
+## Scientific Background
+- **Physics courses:**
   classical/analytical/fluid mechanics, thermodynamics, electrodynamics, optics, special relativity, quantum mechanics, particle physics, solid-state physics
-- **Mathematics courses**
+- **Mathematics courses:**
   analysis, complex analysis, linear algebra
-- **Climate physics courses**
+- **Climate physics courses:**
   ocean physics and modeling, atmospheric physics, ice dynamics, sea-ice physics and modeling
-- **Programming skills**
+- **Programming skills:**
   Python, R, Matlab, C++, Fortran, Bash/Unix, Latex, Markdown
 
-Publications
-======
+## Publications
 For a list of my publications, please go to the [Publications](/publications/) page.
   
-Talks
-======
+## Talks
 For a list of talks and presentations I gave, please go to the [Talks](/talks/) page.
   
-Teaching
-======
+## Teaching
 For a list of courses I taught, please go to the [Teaching](/teaching/) page.
