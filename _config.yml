@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Julius Garbe"
-title_separator          : "/"
+title_separator          : "//"
 name                     : &name "Julius Garbe"
 description              : &description "PhD candidate and researcher at the Potsdam Institute for Climate Impact Research (PIK) at Potsdam, Germany"
 url                      : "https://juliusgarbe.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
