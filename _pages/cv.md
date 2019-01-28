@@ -20,7 +20,7 @@ redirect_from:
 <img style="float: right; border:1px solid black;" src="/images/logo_uni-hamburg.pdf" width="160">
   - **Advisors:** Dr. Georg Feulner and Prof. Dr. Ricarda Winkelmann (Potsdam Institute for Climate Impact Research), and Prof. Dr. Lars Kaleschke (University of Hamburg)
 - **B.Sc., *Physics (major)* and *Mathematics (minor)*, Humboldt University of Berlin, Germany (2013)**
-<img style="float: right; border:1px solid black;" src="/images/logo_uni-huberlin.png" width="230">
+<img style="float: right; border:1px solid black;" src="/images/logo_uni-huberlin.png" width="250">
   - **Bachelor's thesis:** *"An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history"*
   - **Advisors:** Prof. Dr. Dr. h.c. mult. Jürgen Kurths and Dr. Georg Feulner (Potsdam Institute for Climate Impact Research)
 
