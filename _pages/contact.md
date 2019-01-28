@@ -24,4 +24,4 @@ julius.garbe [at] pik-potsdam.de
 +49 (0)331 288 - 2673
 
 <img src="/images/018_Telegrafenberg_Suering_Haus_PIK.jpg" alt="018_Telegrafenberg_Suering_Haus_PIK" title="PIK's Suering Building at Telegrafenberg, Potsdam. Photo &copy; Andrea Künstle" width="450"><br />
-<span style="font-size: 9pt;">Photo © Andrea Künstle</span>
+<span style="font-size: 9pt;">PIK's Suering Building at Telegrafenberg, Potsdam. Photo &copy; Andrea Künstle</span>
