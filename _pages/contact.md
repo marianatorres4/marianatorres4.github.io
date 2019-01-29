@@ -10,12 +10,13 @@ author_profile: true
 ### Postal address
 <address>
 Potsdam Institute for Climate Impact Research<br />
-P.O. Box 60 12 03<br />
-14412 Potsdam, Germany
+Telegrafenberg A31<br />
+14473 Potsdam<br />
+Germany
 </address>
 
 ### Office
-Building A62, room S10
+Building A62 (Suering Building), room S10
 
 ### Email
 julius.garbe [at] pik-potsdam.de
