@@ -1,10 +1,13 @@
 ---
+permalink: /resume/
+title: "Resume"
+excerpt: "Education, research interests & scientific background"
 layout: archive
-title: "Curriculum vitae"
-permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume.html
+  - /cv/
+  - /cv.html
 ---
 
 {% include base_path %}

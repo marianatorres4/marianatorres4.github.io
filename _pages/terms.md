@@ -1,7 +1,9 @@
 ---
-permalink: /terms/
+permalink: /privacy/
 title: "Privacy Policy"
 modified: 2016-06-06
+redirect_from: 
+  - /privacy.html
 ---
 
 {% include base_path %}
