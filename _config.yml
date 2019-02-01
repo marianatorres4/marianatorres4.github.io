@@ -83,7 +83,7 @@ author:
   name             : "Julius Garbe"
   avatar           : "profile.png"
   bio              : "PhD candidate and researcher at the <a href='https://www.pik-potsdam.de/' style='color: black;'>Potsdam Institute for Climate Impact Research (PIK)</a> at Potsdam, Germany"
-  location         : "<a href='https://www.visitberlin.de/en'>Berlin, Germany</a>" # "Potsdam, Germany"
+  location         : "Berlin, Germany"
   employer         : # "PIK Potsdam"
   googlescholar    :  # example: "http://yourfullgooglescholarurl.com"
   email            : "julius.garbe@pik-potsdam.de"
@@ -252,7 +252,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
