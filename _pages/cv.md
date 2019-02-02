@@ -14,17 +14,17 @@ redirect_from:
 
 ## Education
 <!-- <img style="float: right;" src="/images/logo_uni-potsdam.png" width="170"> -->
-- **Ph.D., *Climate Physics*, University of Potsdam, Germany (expected)**
-  - **Doctoral thesis:** *"Interactions of the Greenland and Antarctic ice sheets"*
+- **Ph.D., *Climate Physics*, University of Potsdam (expected)**
+  - **Dissertation:** *"Interactions of the Greenland and Antarctic ice sheets"*
   - **Advisor:** [JProf. Ricarda Winkelmann]
 <!-- <img style="float: right;" src="/images/logo_clisap.pdf" width="160"> -->
 <!-- <img style="float: right;" src="/images/logo_uni-hamburg.pdf" width="160"> -->
-- **M.Sc., *Integrated Climate System Sciences*, School of Integrated Climate System Sciences at the University of Hamburg, Germany (2017)**
-  - **Master's thesis:** *"Long-term evolution and critical thresholds of the Antarctic Ice Sheet"*
+- **M.Sc., *Integrated Climate System Sciences*, School of Integrated Climate System Sciences at the University of Hamburg, 2017**
+  - **Thesis:** *"Long-term evolution and critical thresholds of the Antarctic Ice Sheet"*
   - **Advisors:** [Dr. Georg Feulner], [JProf. Ricarda Winkelmann], and [Prof. Lars Kaleschke]
 <!-- <img style="float: right;" src="/images/logo_uni-huberlin.png" width="250"> -->
-- **B.Sc., *Physics (major)* and *Mathematics (minor)*, Humboldt University of Berlin, Germany (2013)**
-  - **Bachelor's thesis:** *"An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history"*
+- **B.Sc., *Physics (major)* and *Mathematics (minor)*, Humboldt University of Berlin, 2013**
+  - **Thesis:** *"An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history"*
   - **Advisors:** [Prof. Jürgen Kurths] and [Dr. Georg Feulner]
 
 ## Research Interests
