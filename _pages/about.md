@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a Ph.D. candidate and research assistant at the [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/) in Potsdam, Germany, working in the *Ice Dynamics & Tipping* group led by [Prof. Dr. Ricarda Winkelmann](https://ricarda.science).
+Hi, I am a Ph.D. candidate and research assistant at the [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/) in Potsdam, Germany, working in the *Ice Dynamics & Tipping* group led by [JProf. Dr. Ricarda Winkelmann](https://ricarda.science).
 
 I am currently investigating the interactions between the ice sheets of Greenland and Antarctica under the scope of future global warming. My aim is to assess the likelihood that a tipping of the Greenland ice sheet influences the tipping potential of the Antarctic ice sheet to eventually answer the question: How does such a tipping cascade impact the future seal-level contribution from Antarctica?
 

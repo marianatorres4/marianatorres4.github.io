@@ -16,16 +16,16 @@ redirect_from:
 <!-- <img style="float: right;" src="/images/logo_uni-potsdam.png" width="170"> -->
 - **Ph.D., *Climate Physics*, University of Potsdam, Germany (expected)**
   - **Doctoral thesis:** *"Interactions of the Greenland and Antarctic ice sheets"*
-  - **Advisor:** Prof. Dr. Ricarda Winkelmann (Potsdam Institute for Climate Impact Research)
+  - **Advisor:** [JProf. Ricarda Winkelmann]
 <!-- <img style="float: right;" src="/images/logo_clisap.pdf" width="160"> -->
 <!-- <img style="float: right;" src="/images/logo_uni-hamburg.pdf" width="160"> -->
 - **M.Sc., *Integrated Climate System Sciences*, School of Integrated Climate System Sciences at the University of Hamburg, Germany (2017)**
   - **Master's thesis:** *"Long-term evolution and critical thresholds of the Antarctic Ice Sheet"*
-  - **Advisors:** Dr. Georg Feulner and Prof. Dr. Ricarda Winkelmann (Potsdam Institute for Climate Impact Research), and Prof. Dr. Lars Kaleschke (University of Hamburg)
+  - **Advisors:** [Dr. Georg Feulner], [JProf. Ricarda Winkelmann], and [Prof. Lars Kaleschke]
 <!-- <img style="float: right;" src="/images/logo_uni-huberlin.png" width="250"> -->
 - **B.Sc., *Physics (major)* and *Mathematics (minor)*, Humboldt University of Berlin, Germany (2013)**
   - **Bachelor's thesis:** *"An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history"*
-  - **Advisors:** Prof. Dr. Dr. h.c. mult. Jürgen Kurths and Dr. Georg Feulner (Potsdam Institute for Climate Impact Research)
+  - **Advisors:** [Prof. Jürgen Kurths] and [Dr. Georg Feulner]
 
 ## Research Interests
 - Climate (and social) tipping interactions
@@ -52,3 +52,9 @@ For a list of talks and presentations I gave, please go to the [Talks](/talks/) 
   
 ## Teaching
 For a list of courses I taught, please go to the [Teaching](/teaching/) page.
+
+
+[JProf. Ricarda Winkelmann]: https://ricarda.science
+[Dr. Georg Feulner]: https://www.pik-potsdam.de/members/feulner
+[Prof. Lars Kaleschke]: https://www.clisap.de/clisap/people/lars_kaleschke-7/
+[Prof. Jürgen Kurths]: https://www.pik-potsdam.de/members/kurths
