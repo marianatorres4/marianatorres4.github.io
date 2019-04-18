@@ -27,7 +27,7 @@ Germany
 
 <!-- ### Office -->
 <i class="fas fa-building" aria-hidden="true"></i><br />
-Building A62 (Suering building), room S10
+Room S10, A62 (Suering building)
 
 <!-- ### Email -->
 <i class="fas fa-envelope" aria-hidden="true"></i><br />
@@ -37,5 +37,5 @@ julius.garbe [at] pik-potsdam.de
 <i class="fas fa-phone" aria-hidden="true"></i><br />
 +49 (0)331 288 - 2673
 
-<img src="/images/018_Telegrafenberg_Suering_Haus_PIK.jpg" alt="018_Telegrafenberg_Suering_Haus_PIK" title="PIK's Suering building at Telegrafenberg, Potsdam. Photo &copy; Andrea Künstle" width="450"><br />
-<span style="font-size: 9pt;">PIK's Suering building at Telegrafenberg, Potsdam. Photo &copy; Andrea Künstle</span>
+<!-- <img src="/images/018_Telegrafenberg_Suering_Haus_PIK.jpg" alt="018_Telegrafenberg_Suering_Haus_PIK" title="PIK's Suering building at Telegrafenberg, Potsdam. Photo &copy; Andrea Künstle" width="450"><br />
+<span style="font-size: 9pt;">PIK's Suering building at Telegrafenberg, Potsdam. Photo &copy; Andrea Künstle</span> -->

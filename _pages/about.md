@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "Hi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a Ph.D. candidate and research assistant at the [Potsdam Institute for Climate Impact Research](https://www.pik-potsdam.de/) in Potsdam, Germany, working in the *Ice Dynamics & Tipping* group led by [JProf. Dr. Ricarda Winkelmann](https://ricarda.science).
+I'm Julius. I am a PhD candidate and research assistant in the [Earth System Analysis](https://www.pik-potsdam.de/research/earth-system-analysis "https://www.pik-potsdam.de/research/earth-system-analysis") department at the Potsdam Institute for Climate Impact Research (PIK), working in the *Ice Dynamics* group led by [JProf. Dr. Ricarda Winkelmann](https://ricarda.science "https://ricarda.science").
 
-I am currently investigating the interactions between the ice sheets of Greenland and Antarctica under the scope of future global warming. My aim is to assess the likelihood that a tipping of the Greenland ice sheet influences the tipping potential of the Antarctic ice sheet to eventually answer the question: How does such a tipping cascade impact the future seal-level contribution from Antarctica?
+My research focusses on the interactions between the ice sheets of Greenland and Antarctica under the scope of future global warming. The aim of my PhD project is to assess the likelihood that a tipping of the Greenland ice sheet influences the tipping potential of the Antarctic ice sheet. Using numerical ice-sheet modelling, I want to answer the question, how such a tipping cascade impacts future seal-level contributions from Antarctica.
 
-My dissertation is embedded in the project [*DominoES – Domino Effects in the Earth System: Can Antarctica tip climate policy?*](https://www.pik-potsdam.de/dominoes). DominoES is a joint project by the Potsdam Institute for Climate Impact Research (PIK) and the [Leibniz Institute for the Social Sciences (GESIS)](http://www.gesis.org/en/home/), Cologne, funded by the [Leibniz Association](https://www.leibniz-gemeinschaft.de/en/home/).
+At PIK, my work is part of the Leibniz project [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes"), a joint project by the Potsdam Institute for Climate Impact Research and the [Leibniz Institute for the Social Sciences (GESIS)](http://www.gesis.org/en/home/ "http://www.gesis.org/en/home/"), and the FutureLab on [Earth Resilience in the Anthropocene](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience").
