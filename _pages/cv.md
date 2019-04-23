@@ -43,13 +43,13 @@ redirect_from:
 - Climate physics courses: ocean physics and modeling, atmospheric physics, ice dynamics, sea-ice physics and modeling
 - Programming languages: Python, R, Matlab, C++, Fortran, Bash/Unix, LaTeX, HTML, CSS, Markdown
 
-## Publications > [Publications](/publications/ "Publications")
+## Publications [>](/publications/ "Publications")
 For a list of my publications, please go to the [Publications](/publications/ "Publications") page.
-  
-## Talks
+
+## Talks [>](/talks/ "Talks")
 For a list of talks and presentations I gave, please go to the [Talks](/talks/ "Talks") page.
   
-## Teaching
+## Teaching [>](/teaching/ "Teaching")
 For a list of courses I taught, please go to the [Teaching](/teaching/ "Teaching") page.
 
 

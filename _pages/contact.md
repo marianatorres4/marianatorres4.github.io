@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 ### Postal address
-<img style="float: left;" src="/images/logo_pik-potsdam_gray.png" width="180">
+<img style="float: right;" src="/images/logo_pik-potsdam_gray.png" width="200">
 
 <address>
 Potsdam Institute for Climate Impact Research<br />
@@ -24,12 +24,8 @@ Germany
 
 <!-- ### Office -->
 <i class="fas fa-building" aria-hidden="true"></i> Room S10, A62 (Suering building)<br />
-
-
 <!-- ### Email -->
 <i class="fas fa-envelope" aria-hidden="true"></i> julius.garbe [at] pik-potsdam.de<br />
-
-
 <!-- ### Phone -->
 <i class="fas fa-phone" aria-hidden="true"></i> +49 331 288 - 2673<br />
 
