@@ -11,6 +11,8 @@ redirect_from:
 {% include base_path %}
 
 ### Postal address
+<img style="float: right;" src="/images/logo_pik-potsdam_gray.png" width="90">
+
 <address>
 Potsdam Institute for Climate Impact Research<br />
 Telegrafenberg A31<br />
@@ -30,7 +32,7 @@ julius.garbe [at] pik-potsdam.de
 
 <!-- ### Phone -->
 <i class="fas fa-phone" aria-hidden="true"></i><br />
-+49 (0)331 288 - 2673
++49 331 288 - 2673
 
 ### Internet
 <a href="https://www.pik-potsdam.de/"><i class="fas fa-globe" aria-hidden="true"></i></a> <a href="https://www.pik-potsdam.de/">www.pik-potsdam.de</a><br />

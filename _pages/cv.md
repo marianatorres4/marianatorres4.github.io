@@ -41,9 +41,9 @@ redirect_from:
 - Physics courses: classical/analytical/fluid mechanics, thermodynamics, electrodynamics, optics, special relativity, quantum mechanics, particle physics, solid-state physics
 - Mathematics courses: analysis, complex analysis, linear algebra
 - Climate physics courses: ocean physics and modeling, atmospheric physics, ice dynamics, sea-ice physics and modeling
-- Programming skills: Python, R, Matlab, C++, Fortran, Bash/Unix, LaTeX, HTML, CSS, Markdown
+- Programming languages: Python, R, Matlab, C++, Fortran, Bash/Unix, LaTeX, HTML, CSS, Markdown
 
-## Publications
+## Publications > [Publications](/publications/ "Publications")
 For a list of my publications, please go to the [Publications](/publications/ "Publications") page.
   
 ## Talks
