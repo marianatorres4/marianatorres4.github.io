@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img style="float: left;" src="/images/logo_pik-potsdam_gray.png" width="220"><br />
+<br /><img style="float: left;" src="/images/logo_pik-potsdam_gray.png" width="220"><br /><br />
 
 ### Postal address
 <address>
@@ -30,9 +30,9 @@ Germany
 
 
 ### Internet
-<a href="https://www.pik-potsdam.de/"><i class="fas fa-globe" aria-hidden="true"></i></a> <a href="https://www.pik-potsdam.de/">www.pik-potsdam.de</a><br />
-<a href="https://twitter.com/PIK_Climate"><i class="fab fa-twitter" aria-hidden="true"></i></a> <a href="https://twitter.com/PIK_Climate">@PIK_Climate</a><br />
-<a href="https://www.facebook.com/PIKPotsdam"><i class="fab fa-facebook-f" aria-hidden="true"></i></a> <a href="https://www.facebook.com/PIKPotsdam">@PIKPotsdam</a><br />
+<a href="https://www.pik-potsdam.de/"><i class="fas fa-globe" aria-hidden="true"></i></a>&nbsp;<a href="https://www.pik-potsdam.de/">www.pik-potsdam.de</a><br />
+<a href="https://twitter.com/PIK_Climate"><i class="fab fa-twitter" aria-hidden="true"></i></a>&nbsp;<a href="https://twitter.com/PIK_Climate">@PIK_Climate</a><br />
+<a href="https://www.facebook.com/PIKPotsdam"><i class="fab fa-facebook-f" aria-hidden="true"></i></a>&nbsp;&nbsp;<a href="https://www.facebook.com/PIKPotsdam">@PIKPotsdam</a><br />
 
 <!-- <img src="/images/018_Telegrafenberg_Suering_Haus_PIK.jpg" alt="018_Telegrafenberg_Suering_Haus_PIK" title="PIK's Suering building at Telegrafenberg, Potsdam. Photo &copy; Andrea Künstle" width="450"><br />
 <span style="font-size: 9pt;">PIK's Suering building at Telegrafenberg, Potsdam. Photo &copy; Andrea Künstle</span> -->
