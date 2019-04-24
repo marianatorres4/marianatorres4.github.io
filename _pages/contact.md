@@ -2,7 +2,7 @@
 permalink: /contact/
 title: "Contact"
 excerpt: "Contact information"
-layout: archive
+<!-- layout: archive -->
 author_profile: true
 redirect_from: 
   - /contact.html
@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 ### Postal address
-<img style="float: right;" src="/images/logo_pik-potsdam_gray.png" width="270">
+<img style="float: right;" src="/images/logo_pik-potsdam_gray.png" width="200">
 
 <address>
 Potsdam Institute for Climate Impact Research<br />
