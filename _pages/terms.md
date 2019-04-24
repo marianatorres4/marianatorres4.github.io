@@ -1,6 +1,6 @@
 ---
 permalink: /privacy/
-title: "Privacy Policy"
+title: "Terms & Privacy Policy"
 modified: 2019-04-23
 redirect_from: 
   - /terms.html
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 <!-- {% include toc %} -->
 
-## Privacy Policy
+## Terms & Privacy Policy
 
 The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
@@ -31,7 +31,7 @@ All of this information is not linked to anything that is personally identifiabl
 
 ### Cookies and Web Beacons
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
+When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com "http://disqus.com") the next time you leave a comment.
 
 Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
 
@@ -39,4 +39,4 @@ If you wish to disable cookies, you may do so through your web browser options. 
 
 ### Google Analytics
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](https://www.google.de/analytics/terms/us.html "https://www.google.de/analytics/terms/us.html").

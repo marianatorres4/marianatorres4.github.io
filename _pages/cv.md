@@ -46,7 +46,7 @@ redirect_from:
 For a list of my publications, please go to the [Publications](/publications/ "Publications") page.
 
 ## Talks
-For a list of talks and presentations I gave, please go to the [Talks](/talks/ "Talks") page.
+For a list of talks and presentations I gave, please go to the [Presentations](/presentations/ "Presentations") page.
   
 ## Teaching
 For a list of courses I taught, please go to the [Teaching](/teaching/ "Teaching") page.
