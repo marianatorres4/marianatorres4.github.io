@@ -2,7 +2,6 @@
 permalink: /resume/
 title: "Resume"
 excerpt: "Education, research interests & scientific background"
-<!-- layout: archive -->
 author_profile: true
 redirect_from:
   - /resume.html
