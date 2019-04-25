@@ -14,20 +14,20 @@ redirect_from:
 ## Education
 <img style="float: right;" src="/images/logo_uni-potsdam_gray.png" width="90">
 
-- **Ph.D., *Climate Physics***, University of Potsdam (expected)
-  - Dissertation: *"Interactions of the Greenland and Antarctic ice sheets"*
+- Ph.D., *Climate Physics*, University of Potsdam (expected)
+  - Dissertation: "Interactions of the Greenland and Antarctic ice sheets"
   - Advisor: JProf. Ricarda Winkelmann
 
-<img style="float: right;" src="/images/logo_uni-hamburg_gray.png" width="90">
+<img style="float: right;" src="/images/logo_uni-hamburg_circle_gray.png" width="90">
 
-- **M.Sc., *Integrated Climate System Sciences***, School of Integrated Climate System Sciences at the University of Hamburg, 2017
-  - Thesis: *"Long-term evolution and critical thresholds of the Antarctic Ice Sheet"*
+- M.Sc., *Integrated Climate System Sciences*, School of Integrated Climate System Sciences at the University of Hamburg, 2017
+  - Thesis: "Long-term evolution and critical thresholds of the Antarctic Ice Sheet"
   - Advisors: Dr. Georg Feulner, JProf. Ricarda Winkelmann, and Prof. Lars Kaleschke
 
 <img style="float: right;" src="/images/logo_uni-huberlin_gray.png" width="90">
 
-- **B.Sc., *Physics (major)* and *Mathematics (minor)***, Humboldt University of Berlin, 2013
-  - Thesis: *"An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history"*
+- B.Sc., *Physics (major)* and *Mathematics (minor)*, Humboldt University of Berlin, 2013
+  - Thesis: "An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history"
   - Advisors: Prof. Jürgen Kurths and Dr. Georg Feulner
 
 ## Research Interests
@@ -45,7 +45,7 @@ redirect_from:
 ## Publications
 For a list of my publications, please go to the [Publications](/publications/ "Publications") page.
 
-## Talks
+## Talks and Presentations
 For a list of talks and presentations I gave, please go to the [Presentations](/presentations/ "Presentations") page.
   
 ## Teaching
