@@ -2,15 +2,16 @@
 permalink: /privacy/
 title: "Terms & Privacy Policy"
 modified: 2019-04-23
-redirect_from: 
-  - /terms.html
+redirect_from:
   - /privacy.html
+  - /terms/
+  - /terms.html
 ---
 
 {% include base_path %}
 <!-- {% include toc %} -->
 
-## Terms & Privacy Policy
+## Privacy Policy
 
 The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
