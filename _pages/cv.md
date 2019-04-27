@@ -1,46 +1,57 @@
 ---
-permalink: /resume/
-title: "Resume"
-excerpt: "Education, research interests & scientific background"
+permalink: /cv/
+title: "Curriculum Vitae"
+excerpt: "Education, research interests, scientific background & more"
 author_profile: true
 redirect_from:
+  - /resume/
   - /resume.html
-  - /cv/
   - /cv.html
 ---
 
 {% include base_path %}
 
+PDF available on [request](mailto:julius.garbe@pik-potsdam.de "mailto:julius.garbe@pik-potsdam.de").
+
 ## Education
-<img style="float: right;" src="/images/logo_uni-potsdam_gray.png" width="90">
+<a href="https://www.uni-potsdam.de/en/index.html"><img style="float: right;" src="/images/logo_uni-potsdam_gray.png" width="90"></a>
 
-- Ph.D., *Climate Physics*, University of Potsdam (expected)
-  - Dissertation: "Interactions of the Greenland and Antarctic ice sheets"
-  - Advisor: JProf. Ricarda Winkelmann
+- **Ph.D., Climate Physics, University of Potsdam**
+  - **Date:** expected
+  - **Dissertation:** "Interactions of the Greenland and Antarctic ice sheets"
+  - **Advisors:** JProf. Ricarda Winkelmann and Dr. Jonathan F. Donges
 
-<img style="float: right;" src="/images/logo_uni-hamburg_circle_gray.png" width="90">
+<a href="https://www.uni-hamburg.de/en/"><img style="float: right;" src="/images/logo_uni-hamburg_circle_gray.png" width="90"></a>
 
-- M.Sc., *Integrated Climate System Sciences*, School of Integrated Climate System Sciences at the University of Hamburg, 2017
-  - Thesis: "Long-term evolution and critical thresholds of the Antarctic Ice Sheet"
-  - Advisors: Dr. Georg Feulner, JProf. Ricarda Winkelmann, and Prof. Lars Kaleschke
+- **M.Sc., Integrated Climate System Sciences, School of Integrated Climate System Sciences at the University of Hamburg**
+  - **Date:** March 2017
+  - **Thesis:** "Long-term evolution and critical thresholds of the Antarctic Ice Sheet"
+  - **Advisors:** Dr. Georg Feulner, JProf. Ricarda Winkelmann, and Prof. Lars Kaleschke
 
-<img style="float: right;" src="/images/logo_uni-huberlin_gray.png" width="90">
+<a href="https://www.hu-berlin.de/en"><img style="float: right;" src="/images/logo_uni-huberlin_gray.png" width="90"></a>
 
-- B.Sc., *Physics (major)* and *Mathematics (minor)*, Humboldt University of Berlin, 2013
-  - Thesis: "An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history"
-  - Advisors: Prof. Jürgen Kurths and Dr. Georg Feulner
+- **B.Sc., Physics (major) and Mathematics (minor), Humboldt University of Berlin**
+  - **Date:** December 2013
+  - **Thesis:** "An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history"
+  - **Advisors:** Prof. Jürgen Kurths and Dr. Georg Feulner
+  
+## Scientific Background
+- **Physics courses:** classical/analytical/fluid mechanics, thermodynamics, electrodynamics, optics, special relativity, quantum mechanics, particle physics, solid-state physics
+- **Mathematics courses:** analysis, complex analysis, linear algebra
+- **Climate physics courses:** ocean physics and modeling, atmospheric physics, ice dynamics, sea-ice physics and modeling
+- **Programming languages:** Python, R, Matlab, C++, Fortran, Bash/Unix, LaTeX, HTML, CSS, Markdown
+
+## Relevant Academic Positions
+- **PhD candidate and researcher**, Potsdam Institute for Climate Impact Research, Germany (since 2017)
+  - Embedded within the Leibniz project [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes") and the FutureLab on [Earth Resilience in the Anthropocene](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience")
+  - *Methods:* numerical simulations with the Parallel Ice Sheet Model ([PISM](http://pism-docs.org/ "http://pism-docs.org/")), model development and implementation with focus on ice-ocean interaction
+
 
 ## Research Interests
 - Climate and social tipping interactions
 - Antarctic ice-sheet / ice-shelf stability and future sea-level change
-- Hysteresis behaviour of the Antarctic Ice Sheet and Antarctic tipping points
+- Hysteresis behavior of the Antarctic Ice Sheet and Antarctic tipping points
 - Response of the Antarctic Ice Sheet to Greenland ice loss via ocean dynamics
-  
-## Scientific Background
-- Physics courses: classical/analytical/fluid mechanics, thermodynamics, electrodynamics, optics, special relativity, quantum mechanics, particle physics, solid-state physics
-- Mathematics courses: analysis, complex analysis, linear algebra
-- Climate physics courses: ocean physics and modeling, atmospheric physics, ice dynamics, sea-ice physics and modeling
-- Programming languages: Python, R, Matlab, C++, Fortran, Bash/Unix, LaTeX, HTML, CSS, Markdown
 
 ## Publications
 For a list of my publications, please go to the [Publications](/publications/ "Publications") page.
