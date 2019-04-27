@@ -15,4 +15,4 @@ location: "Potsdam, Germany"
 
 **Instructor:** Prof. Dr. Stefan Rahmstorf
 
-**Website:** [http://www.pik-potsdam.de/~stefan/Lectures/meeresstroemungen/index.html](http://www.pik-potsdam.de/~stefan/Lectures/meeresstroemungen/index.html "http://www.pik-potsdam.de/~stefan/Lectures/meeresstroemungen/index.html") (german)
+**Website:** [http://www.pik-potsdam.de/~stefan/Lectures/meeresstroemungen/index.html](http://www.pik-potsdam.de/~stefan/Lectures/meeresstroemungen/index.html "http://www.pik-potsdam.de/~stefan/Lectures/meeresstroemungen/index.html") (german only)
