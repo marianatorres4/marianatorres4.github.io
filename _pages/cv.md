@@ -42,7 +42,7 @@ PDF available on [request](mailto:julius.garbe@pik-potsdam.de "mailto:julius.gar
 - **Programming languages:** Python, R, Matlab, C++, Fortran, Bash/Unix, LaTeX, HTML, CSS, Markdown
 
 ## Relevant Academic Positions
-- **PhD candidate and researcher**, Potsdam Institute for Climate Impact Research, Germany (since 2017)
+- **PhD candidate and researcher**, Potsdam Institute for Climate Impact Research, Potsdam, Germany (since 2017)
   - Embedded within the Leibniz project [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes") and the FutureLab on [Earth Resilience in the Anthropocene](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience")
   - *Methods:* numerical simulations with the Parallel Ice Sheet Model ([PISM](http://pism-docs.org/ "http://pism-docs.org/")), model development and implementation with focus on ice-ocean interaction
 
@@ -57,7 +57,7 @@ PDF available on [request](mailto:julius.garbe@pik-potsdam.de "mailto:julius.gar
 For a list of my publications, please go to the [Publications](/publications/ "Publications") page.
 
 ## Talks and Presentations
-For a list of talks and presentations I gave, please go to the [Presentations](/presentations/ "Presentations") page.
+For a list of talks and presentations I gave, please go to the [Talks](/talks/ "Talks") page.
   
 ## Teaching
 For a list of courses I taught, please go to the [Teaching](/teaching/ "Teaching") page.
