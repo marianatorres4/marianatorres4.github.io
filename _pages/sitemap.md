@@ -4,7 +4,7 @@ title: "Sitemap"
 excerpt: "List of all the posts and pages found on the site."
 author_profile: true
 redirect_from:
-  - sitemap.html
+  - 
 ---
 
 {% include base_path %}
@@ -13,7 +13,9 @@ A list of all the posts and pages found on the site. For you robots out there is
 
 ## Pages (in alphabetical order)
 {% for post in site.pages %}
+{% unless post.sitemap == false %}
   {% include archive-single.html %}
+{% endunless %}
 {% endfor %}
 
 ## Posts (in chronological order by collection)

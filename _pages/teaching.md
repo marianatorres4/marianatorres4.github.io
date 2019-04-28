@@ -4,7 +4,7 @@ title: "Teaching"
 excerpt: "List of courses I taught."
 author_profile: true
 redirect_from: 
-  - /teaching.html
+  - 
 ---
 
 {% include base_path %}

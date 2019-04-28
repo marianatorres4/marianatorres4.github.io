@@ -4,9 +4,7 @@ title: "Curriculum Vitae"
 excerpt: "Education, scientific background, research interests & skills, and more."
 author_profile: true
 redirect_from:
-  - /resume/
-  - /resume.html
-  - /cv.html
+  - 
 ---
 
 {% include base_path %}

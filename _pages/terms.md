@@ -1,12 +1,10 @@
 ---
 permalink: /privacy/
 title: "Terms & Privacy Policy"
-excerpt: "Information on privacy policy regarding this site."
+excerpt: "Information on privacy policy regarding this website."
 modified: 2019-04-23
 redirect_from:
-  - /privacy.html
-  - /terms/
-  - /terms.html
+  - 
 ---
 
 {% include base_path %}

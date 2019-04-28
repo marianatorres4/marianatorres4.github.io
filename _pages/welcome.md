@@ -1,13 +1,10 @@
 ---
 permalink: /
 title: "Welcome"
-excerpt: "Hi, I'm Julius. Welcome to my page! I am a PhD candidate and researcher in the Earth System Analysis department at the Potsdam Institute for Climate Impact Research in Potsdam, Germany."
+excerpt: "Welcome to my page! I'm Julius, a PhD candidate and researcher in the <i>Earth System Analysis</i> department at the <i>Potsdam Institute for Climate Impact Research</i> in Potsdam, Germany."
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
-  - /welcome/
-  - /welcome.html
+  - 
 ---
 
 Hi, I'm Julius. I am a PhD candidate and researcher in the [Earth System Analysis](https://www.pik-potsdam.de/research/earth-system-analysis "https://www.pik-potsdam.de/research/earth-system-analysis") department at the Potsdam Institute for Climate Impact Research, working in the *Ice Dynamics* group led by [JProf. Dr. Ricarda Winkelmann](https://ricarda.science "https://ricarda.science").

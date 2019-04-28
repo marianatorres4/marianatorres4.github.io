@@ -4,7 +4,7 @@ title: "Contact"
 excerpt: "Contact details and some links."
 author_profile: true
 redirect_from: 
-  - /contact.html
+  - 
 ---
 
 {% include base_path %}
