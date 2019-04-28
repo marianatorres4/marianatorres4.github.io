@@ -1,5 +1,5 @@
 _site/
-_drafts
+_drafts/
 .ipynb_checkpoints
 .DS_Store
 ._*
