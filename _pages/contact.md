@@ -1,7 +1,7 @@
 ---
 permalink: /contact/
 title: "Contact"
-excerpt: "Contact details and links"
+excerpt: "Contact details and some links."
 author_profile: true
 redirect_from: 
   - /contact.html

@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
-excerpt: "List of academic publications"
+excerpt: "List of academic publications."
 author_profile: true
 redirect_from: 
   - /publications.html
