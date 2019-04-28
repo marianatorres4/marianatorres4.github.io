@@ -1,7 +1,7 @@
 ---
 permalink: /cv/
 title: "Curriculum Vitae"
-excerpt: "Education, research interests, scientific background & more"
+excerpt: "Education, scientific background, research interests & skills, and more"
 author_profile: true
 redirect_from:
   - /resume/
