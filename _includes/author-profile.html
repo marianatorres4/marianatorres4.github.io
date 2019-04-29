@@ -41,8 +41,8 @@
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
        {% if author.researchgate %}
-        <li><a href="{{ author.researchgate }}"><i class="ai ai-researchgate ai-fw" aria-hidden="true"></i> ResearchGate</a></li>
-        <!-- "fab fa-researchgate" -->
+        <li><a href="{{ author.researchgate }}"><i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate</a></li>
+        <!-- academicon: "ai ai-researchgate-square" fontawesome: "fab fa-researchgate" -->
       {% endif %}
       {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
@@ -67,9 +67,6 @@
       {% endif %}
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-      {% endif %}
-      {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fa fab -fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
@@ -108,11 +105,14 @@
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw"></i> Google Scholar</a></li>
-        <!-- "fas fa-graduation-cap" ai-2x -->
+        <li><a href="{{ author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a></li>
+        <!-- academicon: "ai ai-google-scholar-square" fontawesome: "fas fa-graduation-cap" -->
       {% endif %}
       {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw"></i> ORCID</a></li>
+        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid"></i> ORCID</a></li>
+      {% endif %}
+      {% if author.github %}
+        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
