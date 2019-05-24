@@ -3,13 +3,12 @@ permalink: /publications/
 title: "Publications"
 excerpt: "List of academic publications."
 author_profile: true
-redirect_from: 
-  - 
 ---
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
+You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
 {% include base_path %}
 
