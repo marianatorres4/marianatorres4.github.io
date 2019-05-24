@@ -3,6 +3,7 @@ permalink: /publications/
 title: "Publications"
 excerpt: "List of academic publications."
 author_profile: true
+layout: archive
 redirect_from: 
   - 
 ---
@@ -13,7 +14,7 @@ redirect_from:
 {% endif %}
 <p>You can also find my articles on <a href="{{author.googlescholar}}">my Google Scholar profile</a>.</p>
 
-<!-- {% include base_path %} -->
+{% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
