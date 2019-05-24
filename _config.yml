@@ -85,9 +85,9 @@ author:
   bio              : "PhD candidate and researcher at the <a href='https://www.pik-potsdam.de/' alt='https://www.pik-potsdam.de/' style='color: #000; text-decoration:none;'>Potsdam Institute for Climate Impact Research</a> at Potsdam, Germany" #color: #494e51;
   location         : "Potsdam, Germany"
   employer         : # "PIK Potsdam"
-  googlescholar    : "https://scholar.google.com/citations?user=PHdduOoAAAAJ" # example: "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=PHdduOoAAAAJ"
   email            : "julius.garbe@pik-potsdam.de"
-  researchgate     : "https://www.researchgate.net/profile/Julius_Garbe" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Julius_Garbe"
   uri              : "https://www.pik-potsdam.de/members/garbe/"
   bitbucket        :
   codepen          :
@@ -101,7 +101,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "https://support.orcid.org/hc/en-us/articles/360006973993-What-is-ORCID-" # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3140-3307"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
