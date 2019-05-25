@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course, Teaching assistant"
 permalink: /teaching/2018-summer-ice
 venue: "University of Potsdam, Institute of Physics and Astronomy"
-excerpt: "JProf. Dr. Ricarda Winkelmann: &quot;Ice dynamics in Greenland and Antarctica&quot;"
+excerpt: ""
 date: 2018-01-01
 location: "Potsdam, Germany"
 ---
@@ -15,4 +15,4 @@ location: "Potsdam, Germany"
 
 **Instructor:** JProf. Dr. Ricarda Winkelmann
 
-**Website:** [https://ricarda.science/teaching](https://ricarda.science/teaching "https://ricarda.science/teaching")
+**More info:** [https://ricarda.science/teaching](https://ricarda.science/teaching "https://ricarda.science/teaching")
