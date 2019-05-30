@@ -1,5 +1,5 @@
 ---
-title: "Ice dynamics in Greenland and Antarctica (Summer 2018)"
+title: "Ice dynamics in Greenland and Antarctica"
 collection: teaching
 type: "Graduate course, Teaching assistant"
 permalink: /teaching/2018-summer-ice
@@ -9,7 +9,7 @@ date: 2018-01-01
 location: "Potsdam, Germany"
 ---
 
-**Course:** &quot;Ice dynamics in Greenland and Antarctica&quot;
+**Course:** &quot;Ice dynamics in Greenland and Antarctica&quot; (summer term 2018)
 
 **Type:** Graduate course (Master of Science Physics)
 
