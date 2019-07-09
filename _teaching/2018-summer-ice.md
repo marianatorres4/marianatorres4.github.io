@@ -13,6 +13,6 @@ location: "Potsdam, Germany"
 
 **Type:** Graduate course (Master of Science Physics)
 
-**Instructor:** JProf. Dr. Ricarda Winkelmann
+**Instructor:** Prof. Dr. Ricarda Winkelmann
 
 **More info:** [https://ricarda.science/teaching](https://ricarda.science/teaching "https://ricarda.science/teaching")

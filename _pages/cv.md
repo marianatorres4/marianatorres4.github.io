@@ -17,14 +17,14 @@ PDF available on [request](mailto:julius.garbe@pik-potsdam.de "mailto:julius.gar
 - **Ph.D., Climate Physics, University of Potsdam**
   - **Date:** expected
   - **Dissertation:** "Interactions of the Greenland and Antarctic ice sheets"
-  - **Advisors:** JProf. Ricarda Winkelmann and Dr. Jonathan F. Donges
+  - **Advisors:** Prof. Ricarda Winkelmann and Dr. Jonathan F. Donges
 
 <a href="https://www.uni-hamburg.de/en/"><img style="float: right;" src="/images/logo_uni-hamburg_circle_gray.png" width="90"></a>
 
 - **M.Sc., Integrated Climate System Sciences, School of Integrated Climate System Sciences at the University of Hamburg**
   - **Date:** March 2017
   - **Thesis:** "Long-term evolution and critical thresholds of the Antarctic Ice Sheet"
-  - **Advisors:** Dr. Georg Feulner, JProf. Ricarda Winkelmann, and Prof. Lars Kaleschke
+  - **Advisors:** Dr. Georg Feulner, Prof. Ricarda Winkelmann, and Prof. Lars Kaleschke
 
 <a href="https://www.hu-berlin.de/en"><img style="float: right;" src="/images/logo_uni-huberlin_gray.png" width="90"></a>
 
@@ -60,7 +60,7 @@ For a list of talks and presentations I gave, please go to the [Talks](/talks/ "
 For a list of courses I taught, please go to the [Teaching](/teaching/ "Teaching") page.
 
 
-<!-- [JProf. Ricarda Winkelmann]: https://ricarda.science
+<!-- [Prof. Ricarda Winkelmann]: https://ricarda.science
 [Dr. Georg Feulner]: https://www.pik-potsdam.de/members/feulner
 [Prof. Lars Kaleschke]: https://www.clisap.de/clisap/people/lars_kaleschke-7/
 [Prof. Jürgen Kurths]: https://www.pik-potsdam.de/members/kurths -->

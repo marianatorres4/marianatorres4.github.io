@@ -7,7 +7,7 @@ redirect_from:
   - 
 ---
 
-Hi, I'm Julius. I am a PhD candidate and researcher in the [Earth System Analysis](https://www.pik-potsdam.de/research/earth-system-analysis "https://www.pik-potsdam.de/research/earth-system-analysis") department at the Potsdam Institute for Climate Impact Research (PIK), Germany, working in the *Ice Dynamics* group led by [JProf. Dr. Ricarda Winkelmann](https://ricarda.science "https://ricarda.science").
+Hi, I'm Julius. I am a PhD candidate and researcher in the [Earth System Analysis](https://www.pik-potsdam.de/research/earth-system-analysis "https://www.pik-potsdam.de/research/earth-system-analysis") department at the Potsdam Institute for Climate Impact Research (PIK), Germany, working in the *Ice Dynamics* group led by [Prof. Dr. Ricarda Winkelmann](https://ricarda.science "https://ricarda.science").
 
 My research focuses on the interactions between the ice sheets of Greenland and Antarctica under the scope of future global warming. The aim of my PhD project is to assess the likelihood that a tipping of the Greenland ice sheet influences the tipping potential of the Antarctic ice sheet. Using numerical ice-sheet modelling I want to answer the question, how such a tipping cascade impacts future seal-level contributions from Antarctica.
 
