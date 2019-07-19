@@ -182,7 +182,8 @@ body:hover .visually-hidden button {
 /* social icons*/
 
 .social-icons {
-  .fa {
+  .fa,
+  .ai {
     color: #000;
   }
 
@@ -281,6 +282,18 @@ body:hover .visually-hidden button {
   .fa-xing,
   .fa-xing-square {
     color: $xing-color;
+  }
+
+  /* academicons */
+
+  .ai-orcid,
+  .ai-orcid-square {
+    color: $orcid-color;
+  }
+
+  .ai-researchgate,
+  .ai-researchgate-square {
+    color: $researchgate-color;
   }
 }
 
