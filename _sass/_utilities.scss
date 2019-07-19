@@ -220,6 +220,10 @@ body:hover .visually-hidden button {
     color: $google-plus-color;
   }
 
+  .fa-graduation-cap {
+    color: $google-scholar-color;
+  }
+
   .fa-instagram {
     color: $instagram-color;
   }
@@ -285,6 +289,11 @@ body:hover .visually-hidden button {
   }
 
   /* academicons */
+
+  .ai-google-scholar,
+  .ai-google-scholar-square {
+    color: $google-scholar-color;
+  }
 
   .ai-orcid,
   .ai-orcid-square {
