@@ -5,11 +5,12 @@ excerpt: "Education, scientific background, research interests & skills, and mor
 author_profile: true
 redirect_from:
   - 
+pdf: true
 ---
 
 {% include base_path %}
 
-PDF available on [request](mailto:{{ site.author.email }} "mailto:{{ site.author.email }}").
+PDF available on [request](mailto:{{ site.author.email }} "mailto:{{ site.author.email }}") or [here]({{ page.pdf_url }}).
 
 <h1 align="center">{{ site.author.name }}</h1>
 
