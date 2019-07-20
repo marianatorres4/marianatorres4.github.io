@@ -1,0 +1,17 @@
+---
+title: "An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history"
+collection: publications
+permalink: /publication/garbe-bscthesis-2013
+excerpt: "Garbe, J. <i>(B.Sc. Thesis)</i>"
+date: 2013-12-16
+venue: 'Department of Physics, Humboldt University of Berlin'
+---
+
+<b>Recommended citation:</b> Garbe, J.: <i>Ein Überblick über Erklärungsversuche für das Problem der flachen Temperaturgradienten in Warmzeiten der Erdgeschichte</i> (B.Sc. Thesis), Department of Physics, Humboldt University of Berlin (2013)
+
+A PDF version can be made available on reasonable request.
+
+## Abstract
+Our Earth's climate is subject to permanent fluctuations on very long time scales since its formation. Thus, particularly warm periods, lasting millions of years, repeatedly occurred in Earth's history that are associated with an increased concentration of atmospheric greenhouse gases. While paleodata show a lower temperature difference between the equator and the poles compared to today for this so-called "greenhouse states", their causes can not be explained by increased greenhouse gas concentrations solely and the correct simulation without extensive modification of the models has remained as one of the great unsolved problems of paleoclimatology.
+
+The aim of this thesis is to develop an overview of the approaches proposed in the context of this problem using the example of the early Eocene ($\sim$ 50 million years  ~ ago) in order to serve as a starting point for a detailed investigation of the problem using model simulations.
