@@ -53,7 +53,7 @@ PDF available on [request](mailto:julius.garbe@pik-potsdam.de "mailto:julius.gar
 ## Publications
 For a list of my publications, please go to the [Publications](/publications/ "Publications") page.
 
-## Talks and Presentations
+## Talks and Conference Presentations
 For a list of talks and presentations I gave, please go to the [Talks](/talks/ "Talks") page.
   
 ## Teaching
