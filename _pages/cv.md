@@ -9,7 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-PDF available on [request](mailto:julius.garbe@pik-potsdam.de "mailto:julius.garbe@pik-potsdam.de").
+PDF available on [request](mailto:{{ site.author.email }} "mailto:{{ site.author.email }}").
+
+<h1 align="center">{{ site.author.name }}</h1>
+
+<p align="center">{{ site.author.bio }}</p>
+
+<p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> &#124; <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;<a href="{{ site.url }}">{{ site.url }}</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a></p>
 
 ## Education
 <a href="https://www.uni-potsdam.de/en/index.html"><img style="float: right;" src="/images/logo_uni-potsdam_gray.png" width="90"></a>
