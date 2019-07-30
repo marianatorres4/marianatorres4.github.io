@@ -6,3 +6,6 @@ _drafts/
 *.sublime-workspace
 ._*
 */._*
+
+ignore
+cv-print.pdf

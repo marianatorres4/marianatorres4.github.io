@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](/cv-pdf/) for a printable version.
-PDF available on [request](mailto:{{ site.author.email }} "mailto:{{ site.author.email }}").
+Click [here](/cv-print/) for a printable version or [download a PDF](/files/cv-print.pdf).<br /><br /><br />
 
 <h1 align="center">{{ site.author.name }}</h1>
 
