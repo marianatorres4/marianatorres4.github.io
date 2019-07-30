@@ -1,10 +1,15 @@
 ---
-permalink: /cv-pdf/
+permalink: /cv-print/
 title: "Curriculum Vitae"
 layout: splash
 author_profile: false
 
 ---
+
+<script type="text/javascript">
+      window.onload = function() { window.print(); }
+</script>
+
 
 {% include base_path %}
 
@@ -15,17 +20,17 @@ author_profile: false
 <p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> &#124; <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;<a href="{{ site.url }}">{{ site.url }}</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a></p>
 
 ## Education
-- **Ph.D. in Climate Physics, University of Potsdam**
+- **Ph.D. in Climate Physics**, University of Potsdam
   - **Date:** expected
   - **Dissertation:** "Interactions of the Greenland and Antarctic ice sheets"
   - **Advisors:** Prof. Ricarda Winkelmann and Dr. Jonathan F. Donges
 
-- **M.Sc. in Integrated Climate System Sciences, School of Integrated Climate System Sciences at the University of Hamburg**
+- **M.Sc. in Integrated Climate System Sciences**, School of Integrated Climate System Sciences at the University of Hamburg
   - **Date:** March 2017
   - **Thesis:** "Long-term evolution and critical thresholds of the Antarctic Ice Sheet"
   - **Advisors:** Dr. Georg Feulner, Prof. Ricarda Winkelmann, and Prof. Lars Kaleschke
 
-- **B.Sc. in Physics (major) and Mathematics (minor), Humboldt University of Berlin**
+- **B.Sc. in Physics (major) and Mathematics (minor)**, Humboldt University of Berlin
   - **Date:** December 2013
   - **Thesis:** "An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history"
   - **Advisors:** Prof. Jürgen Kurths and Dr. Georg Feulner
