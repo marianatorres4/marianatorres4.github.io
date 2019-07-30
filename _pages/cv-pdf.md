@@ -1,16 +1,12 @@
 ---
-permalink: /cv/
+permalink: /cv-pdf/
 title: "Curriculum Vitae"
-excerpt: "Education, scientific background, research interests & skills, and more."
-author_profile: true
-redirect_from:
-  - 
+layout: splash
+author_profile: false
+
 ---
 
 {% include base_path %}
-
-Click [here](/cv-pdf/) for a printable version.
-PDF available on [request](mailto:{{ site.author.email }} "mailto:{{ site.author.email }}").
 
 <h1 align="center">{{ site.author.name }}</h1>
 

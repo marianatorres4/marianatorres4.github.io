@@ -1,5 +1,5 @@
 ---
-title: "Theory of ocean dynamics"
+title: "Theory of ocean dynamics (Summer 2018)"
 collection: teaching
 type: "Graduate course, Teaching assistant"
 permalink: /teaching/2018-summer-ocean
