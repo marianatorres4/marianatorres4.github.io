@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Projecting Antarctica's contribution to future sea level rise from basal ice-shelf melt using linear response functions of 16 ice sheet models (LARMIP-2) | EGU General Assembly 2019, Vienna, Austria",
+    "Hysteresis of the Antarctic Ice Sheet | EGU General Assembly 2019, Vienna, Austria",
     48.2083537,
     16.3725042
   ],
@@ -20,8 +20,8 @@ var addressPoints = [
     13.0591397
   ],
   [
-    "Hysteresis of the Antarctic Ice Sheet | EGU General Assembly 2019, Vienna, Austria",
-    48.2083537,
-    16.3725042
+    "Long-term stability of the Antarctic Ice Sheet | AGU Fall Meeting 2019, San Francisco (CA), USA",
+    37.7792808,
+    -122.4192363
   ]
 ];
