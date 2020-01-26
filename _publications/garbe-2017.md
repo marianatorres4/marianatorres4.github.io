@@ -1,7 +1,7 @@
 ---
 title: "Long-term evolution and critical thresholds of the Antarctic Ice Sheet"
 collection: publications
-permalink: /publication/garbe-mscthesis-2017
+permalink: /publication/garbe-2017
 citation: "<b>J. Garbe</b>: <i>&quot;Long-term evolution and critical thresholds of the Antarctic Ice Sheet&quot;</i>, M.Sc. Thesis, Department of Earth Sciences, University of Hamburg (2017)."
 date: 2017-02-14
 venue: 'Department of Earth Sciences, University of Hamburg'

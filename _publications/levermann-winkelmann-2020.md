@@ -3,7 +3,7 @@ title: "Projecting Antarctica's contribution to future sea level rise from basal
 collection: publications
 permalink: /publication/levermann-winkelmann-2020
 citation: "A. Levermann, R. Winkelmann, T. Albrecht, H. Goelzer, N.R. Golledge, R. Greve, P. Huybrechts, J. Jordan, G. Leguy, D. Martin, M. Morlighem, F. Pattyn, D. Pollard, A. Quiquet, C. Rodehacke, H. Seroussi, J. Sutter, T. Zhang, J. Van Breedan, R. Calov, R. DeConto, Ch. Dumas, <b>J. Garbe</b>, G.H. Gudmundsson, M.J. Hoffman, A. Humbert, T. Kleiner, W. Lipscomb, M. Meinshausen, E. Ng, S.M.J. Nowicki, M. Perego, S.F. Price, F. Saito, N.J. Schlegel, S. Sun, R.S.W. van de Wal: <i>&quot;Projecting Antarctica's contribution to future sea level rise from basal ice-shelf melt using linear response functions of 16 ice sheet models (LARMIP-2)&quot;</i>, Earth System Dynamics Discuss., accepted (2020). DOI: <a href='https://doi.org/10.5194/esd-2019-23'>10.5194/esd-2019-23</a>"
-date: 2020-02-14
+date: 2020-01-14
 venue: 'Earth System Dynamics Discuss.'
 ---
 
