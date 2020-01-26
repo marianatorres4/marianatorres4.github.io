@@ -1,10 +1,10 @@
 ---
 title: "Projecting Antarctica's contribution to future sea level rise from basal ice-shelf melt using linear response functions of 16 ice sheet models (LARMIP-2)"
 collection: publications
-permalink: /publication/levermann-winkelmann-2019
-citation: "Levermann, A., Winkelmann, R., Albrecht, T., Goelzer, H., Golledge, N. R., Greve, R., Huybrechts, P., Jordan, J., Leguy, G., Martin, D., Morlighem, M., Pattyn, F., Pollard, D., Quiquet, A., Rodehacke, C., Seroussi, H., Sutter, J., Zhang, T., Van Breedam, J., DeConto, R., Dumas, C., <b>Garbe, J.</b>, Gudmundsson, G. H., Hoffman, M. J., Humbert, A., Kleiner, T., Lipscomb, W., Meinshausen, M., Ng, E., Perego, M., Price, S. F., Saito, F., Schlegel, N.-J., Sun, S., and van de Wal, R. S. W.: <i>&quot;Projecting Antarctica's contribution to future sea level rise from basal ice-shelf melt using linear response functions of 16 ice sheet models (LARMIP-2)&quot;</i>, Earth Syst. Dynam. Discuss., in review (2019). DOI: <a href='https://doi.org/10.5194/esd-2019-23'>10.5194/esd-2019-23</a>"
-date: 2019-05-23
-venue: 'Earth Syst. Dynam. Discuss.'
+permalink: /publication/levermann-winkelmann-2020
+citation: "A. Levermann, R. Winkelmann, T. Albrecht, H. Goelzer, N.R. Golledge, R. Greve, P. Huybrechts, J. Jordan, G. Leguy, D. Martin, M. Morlighem, F. Pattyn, D. Pollard, A. Quiquet, C. Rodehacke, H. Seroussi, J. Sutter, T. Zhang, J. Van Breedan, R. Calov, R. DeConto, Ch. Dumas, <b>J. Garbe</b>, G.H. Gudmundsson, M.J. Hoffman, A. Humbert, T. Kleiner, W. Lipscomb, M. Meinshausen, E. Ng, S.M.J. Nowicki, M. Perego, S.F. Price, F. Saito, N.J. Schlegel, S. Sun, R.S.W. van de Wal: <i>&quot;Projecting Antarctica's contribution to future sea level rise from basal ice-shelf melt using linear response functions of 16 ice sheet models (LARMIP-2)&quot;</i>, Earth System Dynamics Discuss., accepted (2020). DOI: <a href='https://doi.org/10.5194/esd-2019-23'>10.5194/esd-2019-23</a>"
+date: 2020-02-14
+venue: 'Earth System Dynamics Discuss.'
 ---
 
 <!-- ## Abstract
