@@ -16,4 +16,4 @@ At PIK, I am part of the working group on [Ice Dynamics](https://ricarda.science
 
 # *News*
 
-**14 Feb 2020:** Our paper summarizing the results of the Linear Antarctic Response Model Intercomparison Project (*LARMIP*) is out! Find it [here](https://www.earth-syst-dynam.net/11/35/2020/, "https://www.earth-syst-dynam.net/11/35/2020/") (open access). Also see the official [press release](https://www.pik-potsdam.de/news/press-releases/the-antarctica-factor-model-uncertainties-reveal-upcoming-sea-level-risk "https://www.pik-potsdam.de/news/press-releases/the-antarctica-factor-model-uncertainties-reveal-upcoming-sea-level-risk").
+**14 Feb 2020:** Our paper summarizing the results of the Linear Antarctic Response Model Intercomparison Project (*LARMIP*) is out! Find it [here](https://www.earth-syst-dynam.net/11/35/2020/ "https://www.earth-syst-dynam.net/11/35/2020/") (open access). Also see the official [press release](https://www.pik-potsdam.de/news/press-releases/the-antarctica-factor-model-uncertainties-reveal-upcoming-sea-level-risk "https://www.pik-potsdam.de/news/press-releases/the-antarctica-factor-model-uncertainties-reveal-upcoming-sea-level-risk").
