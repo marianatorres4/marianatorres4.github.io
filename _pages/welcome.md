@@ -11,7 +11,7 @@ Hi, I'm Julius. I am a PhD candidate and researcher in the [Earth System Analysi
 
 My research focuses on the stability and potential tipping points of the Antarctic ice sheet and their consequences on the long-term sea-level rise under future global warming. The aim of my PhD project is to assess whether the interactions between the Greenland and Antarctic ice sheets increase the likelihood that a tipping of the Greenland ice sheet enhances the tipping potential of the Antarctic ice sheet.
 
-At PIK, I am part of the working group on [Ice Dynamics](https://ricarda.science/group "https://ricarda.science/group") led by Ricarda Winkelmann. My work is also embedded in the Leibniz project [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes") and PIK's [FutureLab on Earth Resilience in the Anthropocene](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience").
+At PIK, I am part of the working group on [Ice Dynamics](https://ricarda.science/group "https://ricarda.science/group") led by Prof. Ricarda Winkelmann as well as PIK's FutureLab on [Earth Resilience in the Anthropocene](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience"). My work is funded by the Leibniz project [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes") and the EU's H2020 project [TiPACCs](https://www.tipaccs.eu "https://www.tipaccs.eu").
 <br />&nbsp;<br />
 
 # *News*

@@ -26,16 +26,17 @@ redirect_from:
 - **M.Sc. in Integrated Climate System Sciences, School of Integrated Climate System Sciences at the University of Hamburg**
   - **Date:** March 2017
   - **Thesis:** "Long-term evolution and critical thresholds of the Antarctic Ice Sheet"
-  - **Advisors:** Dr. Georg Feulner, Prof. Ricarda Winkelmann, and Prof. Lars Kaleschke
+  - **Advisors:** Dr. habil. Georg Feulner, Prof. Ricarda Winkelmann, and Prof. Lars Kaleschke
 
 - **B.Sc. in Physics (major) and Mathematics (minor), Humboldt University of Berlin**
   - **Date:** December 2013
   - **Thesis:** "An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history"
-  - **Advisors:** Prof. Jürgen Kurths and Dr. Georg Feulner
+  - **Advisors:** Prof. Jürgen Kurths and Dr. habil. Georg Feulner
 
 ## Relevant Academic Positions
 - **PhD candidate and researcher**, Potsdam Institute for Climate Impact Research, Potsdam, Germany (since 2017)
-  - Embedded within the Leibniz project [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes") and the FutureLab on [Earth Resilience in the Anthropocene](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience")
+  - Embedded within the Leibniz project [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes") and PIK's FutureLab on [Earth Resilience in the Anthropocene](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience")
+  - *Funding:* [TiPACCs](https://www.tipaccs.eu "https://www.tipaccs.eu") (Horizon 2020 / European Union)
   - *Methods:* numerical simulations with the Parallel Ice Sheet Model ([PISM](http://pism-docs.org/ "http://pism-docs.org/")), model development and implementation with focus on ice-ocean interaction
   
 ## Scientific Background
