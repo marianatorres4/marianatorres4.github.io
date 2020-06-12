@@ -94,6 +94,7 @@
 
 .author__content {
   display: table-cell;
+  font-family: $serif;
   vertical-align: top;
   padding-left: 15px;
   padding-right: 25px;
@@ -116,7 +117,7 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
+  font-family: $serif; // $sans-serif (default)
   font-size: $type-size-5;
 }
 
@@ -133,7 +134,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $sans-serif;
+  font-family: $serif;
   z-index: 10;
   position: relative;
   cursor: pointer;
