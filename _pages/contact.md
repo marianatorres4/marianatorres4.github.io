@@ -33,7 +33,7 @@ Germany
 <a href="https://twitter.com/{{ site.author.twitter }}"><i class="fab fa-twitter" aria-hidden="true"></i> Twitter</a><br />
 <a href="{{ site.author.researchgate }}"><i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate</a><br />
 <a href="{{ site.author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a><br />
-<a href="{{ site.author.orcid }}"><i class="ai ai-orcid"></i></a> ORCID</a><br />
+<a href="{{ site.author.orcid }}"><i class="ai ai-orcid"></i> ORCID</a><br />
 <a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github"></i> Github</a><br />
 
 <!-- <br />
