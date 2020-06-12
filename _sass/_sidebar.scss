@@ -94,7 +94,7 @@
 
 .author__content {
   display: table-cell;
-  font-family: $serif;
+  font-family: $serif; // doesn't work...
   vertical-align: top;
   padding-left: 15px;
   padding-right: 25px;
@@ -110,6 +110,7 @@
 
 .author__name {
   margin: 0;
+  font-family: $serif; // try here...
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -123,6 +124,7 @@
 
 .author__bio {
   margin: 0;
+  font-family: $serif; // try here...
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -134,7 +136,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $serif;
+  font-family: $serif; // doesn't work...
   z-index: 10;
   position: relative;
   cursor: pointer;
