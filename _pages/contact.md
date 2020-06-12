@@ -31,10 +31,10 @@ Germany
 
 ### Online
 <a href="https://twitter.com/{{ site.author.twitter }}"><i class="fab fa-twitter" aria-hidden="true"></i></a>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a><br />
-<a href="{{ author.researchgate }}"><i class="ai ai-researchgate-square" aria-hidden="true"></i></a>&nbsp;&nbsp;&nbsp;<a href="{{ author.researchgate }}">Julius_Garbe</a><br />
-<a href="{{ author.googlescholar }}"><i class="fas fa-graduation-cap"></i></a>&nbsp;&nbsp;&nbsp;<a href="{{ author.googlescholar }}">PHdduOoAAAAJ</a><br />
-<a href="{{ author.orcid }}"><i class="ai ai-orcid"></i></a>&nbsp;&nbsp;&nbsp;<a href="{{ author.orcid }}">0000-0003-3140-3307</a><br />
-<a href="https://github.com/{{ author.github }}"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;<a href="{{ author.orcid }}">juliusgarbe</a><br />
+<a href="{{ site.author.researchgate }}"><i class="ai ai-researchgate-square" aria-hidden="true"></i></a>&nbsp;&nbsp;&nbsp;<a href="{{ site.author.researchgate }}">Julius_Garbe</a><br />
+<a href="{{ site.author.googlescholar }}"><i class="fas fa-graduation-cap"></i></a>&nbsp;&nbsp;&nbsp;<a href="{{ site.author.googlescholar }}">PHdduOoAAAAJ</a><br />
+<a href="{{ site.author.orcid }}"><i class="ai ai-orcid"></i></a>&nbsp;&nbsp;&nbsp;<a href="{{ site.author.orcid }}">0000-0003-3140-3307</a><br />
+<a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;<a href="{{ site.author.orcid }}">juliusgarbe</a><br />
 
 <!-- <br />
 <a href="https://www.pik-potsdam.de"><img style="float: left;" src="/images/logo_pik-potsdam_gray.png" width="250"></a> -->
