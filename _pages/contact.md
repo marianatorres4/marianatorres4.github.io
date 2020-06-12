@@ -24,17 +24,17 @@ Germany
 <!-- ### Email -->
 <i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;julius [dot] garbe [at] pik-potsdam [dot] de<br />
 <!-- ### Homepage -->
-<i class="fas fa-globe" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}">{{ site.author.uri }}</a><br />
+<i class="fas fa-globe" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}">www.pik-potsdam.de/members/garbe/</a><br />
 <!-- ### Phone -->
 <i class="fas fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;+49 331 288 - 2673<br />
 <br />
 
 ### Online
-<a href="https://twitter.com/{{ site.author.twitter }}"><i class="fab fa-twitter" aria-hidden="true"></i></a>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a><br />
-<a href="{{ site.author.researchgate }}"><i class="ai ai-researchgate-square" aria-hidden="true"></i></a>&nbsp;&nbsp;&nbsp;<a href="{{ site.author.researchgate }}">Julius_Garbe</a><br />
-<a href="{{ site.author.googlescholar }}"><i class="fas fa-graduation-cap"></i></a>&nbsp;&nbsp;&nbsp;<a href="{{ site.author.googlescholar }}">PHdduOoAAAAJ</a><br />
-<a href="{{ site.author.orcid }}"><i class="ai ai-orcid"></i></a>&nbsp;&nbsp;&nbsp;<a href="{{ site.author.orcid }}">0000-0003-3140-3307</a><br />
-<a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github"></i></a>&nbsp;&nbsp;&nbsp;<a href="{{ site.author.orcid }}">juliusgarbe</a><br />
+<a href="https://twitter.com/{{ site.author.twitter }}"><i class="fab fa-twitter" aria-hidden="true"></i> Twitter</a><br />
+<a href="{{ site.author.researchgate }}"><i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate</a><br />
+<a href="{{ site.author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a><br />
+<a href="{{ site.author.orcid }}"><i class="ai ai-orcid"></i></a> ORCID</a><br />
+<a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github"></i> Github</a><br />
 
 <!-- <br />
 <a href="https://www.pik-potsdam.de"><img style="float: left;" src="/images/logo_pik-potsdam_gray.png" width="250"></a> -->
