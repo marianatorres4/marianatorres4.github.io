@@ -39,7 +39,7 @@
   }
 
   p, li {
-    font-family: $serif; // $sans-serif (default)
+    font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
   }
@@ -117,7 +117,7 @@
   }
 }
 .sidebar .author__name {
-  font-family: $serif; // $sans-serif (default)
+  font-family: $sans-serif;
   font-size: $type-size-5;
 }
 
@@ -135,7 +135,6 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $serif; // doesn't work...
   z-index: 10;
   position: relative;
   cursor: pointer;
