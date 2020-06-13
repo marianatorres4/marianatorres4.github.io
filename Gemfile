@@ -19,12 +19,13 @@ gem "github-pages", group: :jekyll_plugins
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # To generate PDFs from Jekyll pages. See: https://github.com/abeMedia/jekyll-pdf
-#gem "jekyll-pdf" # not working. Use fix:
-gem "jekyll-pdf", :git => 'git://github.com/m1racoli/jekyll-pdf', :branch => 'fix-digest-gem'
+#gem "jekyll-pdf" # not working. Use fix below.
+#gem "jekyll-pdf", :git => 'git://github.com/m1racoli/jekyll-pdf', :branch => 'fix-digest-gem'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
+  gem 'jekyll-include-cache'
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
