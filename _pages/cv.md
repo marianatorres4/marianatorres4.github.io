@@ -35,9 +35,11 @@ redirect_from:
 
 ## Relevant Academic Positions
 - **PhD candidate and researcher**, Potsdam Institute for Climate Impact Research, Potsdam, Germany (since 2017)
-  - Embedded within the Leibniz project [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes") and PIK's FutureLab on [Earth Resilience in the Anthropocene](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience")
-  - *Funding:* [TiPACCs](https://www.tipaccs.eu "https://www.tipaccs.eu") (Horizon 2020 / European Union)
-  - *Methods:* numerical simulations with the Parallel Ice Sheet Model ([PISM](http://pism-docs.org/ "http://pism-docs.org/")), model development and implementation with focus on ice-ocean interaction
+  - Embedded within the working group on [Ice Dynamics](https://ricarda.science/group "https://ricarda.science/group") led by Prof. Ricarda Winkelmann and PIK's FutureLab on [Earth Resilience in the Anthropocene](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience")
+  - *Funding:*
+    - Since 2020: [TiPACCs](https://www.tipaccs.eu "https://www.tipaccs.eu") (Horizon 2020 / European Union)
+    - 2017--2020: [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes") (Leibniz Association)
+  - *Methods:* numerical simulations with the Parallel Ice Sheet Model ([PISM](http://pism-docs.org/ "http://pism-docs.org/")), model development and implementation with focus on ice-ocean interactions
   
 ## Scientific Background
 - **Physics courses:** classical/analytical/fluid mechanics, thermodynamics, electrodynamics, optics, special relativity, quantum mechanics, particle physics, solid-state physics
