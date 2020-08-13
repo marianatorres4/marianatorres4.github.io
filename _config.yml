@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Julius Garbe"
+  name             : *name
   avatar           : "profile.png"
   bio              : "PhD candidate and researcher at the Potsdam Institute for Climate Impact Research (PIK) at Potsdam, Germany."
   location         : "Potsdam, Germany"

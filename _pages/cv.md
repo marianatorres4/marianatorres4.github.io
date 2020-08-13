@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "Curriculum Vitae"
+title: "Short CV"
 excerpt: "Education, scientific background, research interests & skills, and more."
 author_profile: true
 redirect_from:
@@ -18,20 +18,20 @@ redirect_from:
 <p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> &#124; <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}">www.pik-potsdam.de/members/garbe/</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a></p>
 
 ## Education
-- **Ph.D. in Climate Physics, University of Potsdam**
-  - **Date:** expected
-  - **Dissertation:** "Interactions of the Greenland and Antarctic ice sheets"
-  - **Advisors:** Prof. Ricarda Winkelmann and Dr. Jonathan F. Donges
+- **Ph.D. in Climate Physics**, University of Potsdam
+  - *Date:* expected
+  - *Dissertation:* "Interactions of the Greenland and Antarctic ice sheets"
+  - *Advisors:* Prof. Ricarda Winkelmann and Dr. Jonathan F. Donges
 
-- **M.Sc. in Integrated Climate System Sciences, School of Integrated Climate System Sciences at the University of Hamburg**
-  - **Date:** March 2017
-  - **Thesis:** "Long-term evolution and critical thresholds of the Antarctic Ice Sheet"
-  - **Advisors:** Dr. habil. Georg Feulner, Prof. Ricarda Winkelmann, and Prof. Lars Kaleschke
+- **M.Sc. in Integrated Climate System Sciences**, School of Integrated Climate System Sciences at the University of Hamburg
+  - *Date:* March 2017
+  - *Thesis:* "Long-term evolution and critical thresholds of the Antarctic Ice Sheet"
+  - *Advisors:* Dr. habil. Georg Feulner, Prof. Ricarda Winkelmann, and Prof. Lars Kaleschke
 
-- **B.Sc. in Physics (major) and Mathematics (minor), Humboldt University of Berlin**
-  - **Date:** December 2013
-  - **Thesis:** "An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history"
-  - **Advisors:** Prof. Jürgen Kurths and Dr. habil. Georg Feulner
+- **B.Sc. in Physics (major) and Mathematics (minor)**, Humboldt University of Berlin
+  - *Date:* December 2013
+  - *Thesis:* "An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history"
+  - *Advisors:* Prof. Jürgen Kurths and Dr. habil. Georg Feulner
 
 ## Relevant Academic Positions
 - **PhD candidate and researcher**, Potsdam Institute for Climate Impact Research, Potsdam, Germany (since 2017)
@@ -48,10 +48,11 @@ redirect_from:
 - **Programming languages:** Python, R, Matlab, C++, Fortran, Bash/Unix, LaTeX, HTML, CSS, Markdown
 
 ## Research Interests
-- Climate and social tipping interactions
-- Antarctic ice-sheet / ice-shelf stability and future sea-level change
-- Hysteresis behavior of the Antarctic Ice Sheet and Antarctic tipping points
-- Response of the Antarctic Ice Sheet to Greenland ice loss via ocean dynamics
+- Ice sheet / ice shelf modelling (co-development of [PISM](http://pism-docs.org/ "http://pism-docs.org/"))
+- Antarctic ice sheet stability and future sea-level change
+- Hysteresis behavior of the Antarctic ice sheet and Antarctic tipping points
+- Climate and socio-economic tipping interactions ([DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes"))
+- Earth system resilience ([ERAlab](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience"))
 
 ## Publications
 <ul>{% for post in site.publications reversed %}

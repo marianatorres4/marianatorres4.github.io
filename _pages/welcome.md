@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome"
-excerpt: "Welcome to my page! I'm Julius, a PhD candidate and researcher in the <i>Earth System Analysis</i> department at the <i>Potsdam Institute for Climate Impact Research</i> (PIK) in Potsdam, Germany. I focus on tipping points and Antarctic ice sheet stability."
+excerpt: "Welcome to my page! I'm Julius, a PhD candidate and researcher in the Earth System Analysis department at the Potsdam Institute for Climate Impact Research (PIK) in Potsdam, Germany. I focus on tipping points and Antarctic ice sheet stability."
 author_profile: true
 redirect_from:
   - 

@@ -21,19 +21,16 @@ Germany
 
 <i class="fas fa-building" aria-hidden="true"></i>&nbsp;&nbsp;Office S10, A62<br />
 <i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;julius [dot] garbe [at] pik-potsdam [dot] de<br />
-<i class="fas fa-globe" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}">www.pik-potsdam.de/members/garbe/</a><br />
+<i class="fas fa-globe" aria-hidden="true"></i>&nbsp;&nbsp;<a href="{{ site.author.uri }}">www.pik-potsdam.de/members/garbe/</a><br />
 <i class="fas fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;+49 331 288 - 2673<br />
 <br />
 
 ### Online
-<a href="https://twitter.com/{{ site.author.twitter }}"><i class="fab fa-twitter" aria-hidden="true"></i> Twitter</a><br />
-<a href="{{ site.author.researchgate }}"><i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate</a><br />
-<a href="{{ site.author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a><br />
-<a href="{{ site.author.orcid }}"><i class="ai ai-orcid"></i> ORCID</a><br />
-<a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github"></i> Github</a><br />
-
-<!-- <br />
-<a href="https://www.pik-potsdam.de"><img style="float: left;" src="/images/logo_pik-potsdam_gray.png" width="250"></a> -->
+<i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a><br />
+<i class="ai ai-researchgate-square" aria-hidden="true"></i>&nbsp;&nbsp;<a href="{{ site.author.researchgate }}">Julius_Garbe</a><br />
+<i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="{{ site.author.googlescholar }}">PHdduOoAAAAJ</a><br />
+<i class="ai ai-orcid"></i>&nbsp;&nbsp;<a href="{{ site.author.orcid }}">0000-0003-3140-3307</a><br />
+<i class="fab fa-github"></i>&nbsp;&nbsp;<a href="https://github.com/{{ site.author.github }}">{{ site.author.github }}</a><br />
 
 <!-- <img src="/images/018_Telegrafenberg_Suering_Haus_PIK.jpg" alt="018_Telegrafenberg_Suering_Haus_PIK" title="PIK's Suering building at Telegrafenberg, Potsdam. Photo &copy; Andrea Künstle" width="450"><br />
 <span style="font-size: 9pt;">PIK's Suering building at Telegrafenberg, Potsdam. Photo &copy; Andrea Künstle</span> -->
