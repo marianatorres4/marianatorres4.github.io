@@ -21,7 +21,7 @@ Germany
 
 <i class="fas fa-building" aria-hidden="true"></i>&nbsp;&nbsp;Office S10, A62<br />
 <i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp;julius [dot] garbe [at] pik-potsdam [dot] de<br />
-<i class="fas fa-globe" aria-hidden="true"></i>&nbsp;&nbsp;<a href="{{ site.author.uri }}">www.pik-potsdam.de/members/garbe/</a><br />
+<i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;&nbsp;<a href="{{ site.author.uri }}">www.pik-potsdam.de/members/garbe/</a><br />
 <i class="fas fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;+49 331 288 - 2673<br />
 <br />
 

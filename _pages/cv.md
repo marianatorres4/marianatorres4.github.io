@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "Short CV"
+title: "CV"
 excerpt: "Education, scientific background, research interests & skills, and more."
 author_profile: true
 redirect_from:
@@ -12,6 +12,7 @@ redirect_from:
 <!-- Click [here](/cv-print/) for a printable version or [download a PDF](/files/cv-print.pdf).<br /><br /><br /> -->
 
 <h1 align="center">{{ site.author.name }}</h1>
+<p><h3 align="center">Curriculum Vitae</h3></p>
 
 <p align="center">{{ site.author.bio }}</p>
 
@@ -20,18 +21,18 @@ redirect_from:
 ## Education
 - **Ph.D. in Climate Physics**, University of Potsdam
   - *Date:* expected
-  - *Dissertation:* "Interactions of the Greenland and Antarctic ice sheets"
-  - *Advisors:* Prof. Ricarda Winkelmann and Dr. Jonathan F. Donges
+  - *Doctoral Thesis:* "Interactions of the Greenland and Antarctic ice sheets"
+  - *Advisors:* Prof. Ricarda Winkelmann & Dr. Jonathan F. Donges
 
 - **M.Sc. in Integrated Climate System Sciences**, School of Integrated Climate System Sciences at the University of Hamburg
   - *Date:* March 2017
-  - *Thesis:* "Long-term evolution and critical thresholds of the Antarctic Ice Sheet"
-  - *Advisors:* Dr. habil. Georg Feulner, Prof. Ricarda Winkelmann, and Prof. Lars Kaleschke
+  - *Master's Thesis:* "Long-term evolution and critical thresholds of the Antarctic Ice Sheet"
+  - *Advisors:* Dr. habil. Georg Feulner, Prof. Ricarda Winkelmann, & Prof. Lars Kaleschke
 
 - **B.Sc. in Physics (major) and Mathematics (minor)**, Humboldt University of Berlin
   - *Date:* December 2013
-  - *Thesis:* "An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history"
-  - *Advisors:* Prof. Jürgen Kurths and Dr. habil. Georg Feulner
+  - *Bachelor's Thesis:* "An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history"
+  - *Advisors:* Prof. Jürgen Kurths & Dr. habil. Georg Feulner
 
 ## Relevant Academic Positions
 - **PhD candidate and researcher**, Potsdam Institute for Climate Impact Research, Potsdam, Germany (since 2017)
