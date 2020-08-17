@@ -15,10 +15,11 @@ Hi, I'm Julius. I am a PhD candidate and researcher in the [Earth System Analysi
 
 My research focuses on the stability and potential tipping points of the Antarctic ice sheet and their consequences for long-term sea-level rise under future global warming. The aim of my PhD project is to assess whether the interactions between the Greenland and Antarctic ice sheets increase the likelihood that a tipping of the Greenland ice sheet enhances the tipping potential of the Antarctic ice sheet.
 
-At PIK, I am part of the working group on Ice Dynamics led by [Prof. Ricarda Winkelmann](https://ricarda.science "https://ricarda.science") as well as PIK's FutureLab on [Earth Resilience in the Anthropocene](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience"). My work is funded by the Leibniz project [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes") on interacting tipping elements in the Earth system and the EU's Horizon 2020 project [TiPACCs](https://www.tipaccs.eu "https://www.tipaccs.eu") on tipping points in Antarctic climate components.
-<br />&nbsp;<br />
+At PIK, I am part of the working group on Ice Dynamics led by [Prof. Ricarda Winkelmann](https://ricarda.science "https://ricarda.science") as well as PIK's FutureLab on [Earth Resilience in the Anthropocene](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience"). My work is funded by the Leibniz project [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes") on interacting tipping elements in the Earth system and the EU's Horizon 2020 project [TiPACCs](https://www.tipaccs.eu "https://www.tipaccs.eu") on tipping points in Antarctic climate components.<br />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gD7N8Z9PxqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+To get a better idea of my research focus, watch this short introduction video about the TiPACCs project:<br />
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gD7N8Z9PxqU?rel=0;modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 ## News
 
