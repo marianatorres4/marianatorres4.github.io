@@ -2,6 +2,10 @@
 permalink: /
 title: "Welcome"
 excerpt: "Welcome to my page! I'm Julius, a PhD candidate and researcher in the Earth System Analysis department at the Potsdam Institute for Climate Impact Research (PIK) in Potsdam, Germany. I focus on tipping points and Antarctic ice sheet stability."
+header:
+  overlay_image: header1.jpg
+  overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
+  caption: "Photo credit: J. Garbe"
 author_profile: true
 redirect_from:
   - 
@@ -16,7 +20,7 @@ At PIK, I am part of the working group on Ice Dynamics led by [Prof. Ricarda Win
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gD7N8Z9PxqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
-# *News*
+## News
 
 **14 Feb 2020:** Our paper summarizing the results of the Linear Antarctic Response Model Intercomparison Project (*LARMIP-2*) is out! Find it [here](https://doi.org/10.5194/esd-11-35-2020 "https://doi.org/10.5194/esd-11-35-2020") (open access). Also see the official [press release](https://www.pik-potsdam.de/news/press-releases/the-antarctica-factor-model-uncertainties-reveal-upcoming-sea-level-risk "https://www.pik-potsdam.de/news/press-releases/the-antarctica-factor-model-uncertainties-reveal-upcoming-sea-level-risk").
 
