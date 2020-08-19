@@ -1,13 +1,13 @@
 ---
-title: "Ice dynamics in Greenland and Antarctica (Summer 2018)"
+title: "Introduction to Climate Physics (Winter 2018/19)"
 collection: teaching
 type: "Graduate course, Teaching assistant"
-permalink: /teaching/2018-summer-ice
+permalink: /teaching/2018-winter-climate
 venue: "University of Potsdam, Institute of Physics and Astronomy"
-date: 2018-04-01
+date: 2018-10-01
 ---
 
-**Course:** &quot;Ice dynamics in Greenland and Antarctica&quot; (summer term 2018)
+**Course:** &quot;Introduction to Climate Physics&quot; (winter term 2018/19)
 
 **Type:** Graduate course (Master of Science Physics)
 
