@@ -15,13 +15,23 @@ var addressPoints = [
     13.0591397
   ],
   [
+    "The Hysteresis of the Antarctic Ice Sheet | Potsdam Institute for Climate Impact Research, Online",
+    13.581921,
+    -38.320312
+  ],
+  [
+    "Antarctic ice dynamics - from deep past to deep future | EGU General Assembly 2020, Online",
+    13.581921,
+    -38.320312
+  ],
+  [
     "Hysteresis Behavior of the Antarctic Ice Sheet | Potsdam Institute for Climate Impact Research, Potsdam, Germany",
     52.4009309,
     13.0591397
   ],
   [
     "Long-term stability of the Antarctic Ice Sheet | AGU Fall Meeting 2019, San Francisco (CA), USA",
-    37.7792808,
-    -122.4192363
+    37.7790262,
+    -122.4199061
   ]
 ];
