@@ -36,7 +36,7 @@ redirect_from:
 
 ## Relevant Academic Positions
 - **PhD candidate and researcher**, Potsdam Institute for Climate Impact Research, Potsdam, Germany (since 2017)
-  - Embedded within the working group on [Ice Dynamics](https://ricarda.science/group "https://ricarda.science/group") led by Prof. Ricarda Winkelmann and PIK's FutureLab on [Earth Resilience in the Anthropocene](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience")
+  - Embedded within the working group on [Ice Dynamics](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/ice-dynamics/ "https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/ice-dynamics/") led by Prof. Ricarda Winkelmann and PIK's FutureLab on [Earth Resilience in the Anthropocene](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience")
   - *Funding:*
     - Since 2020: [TiPACCs](https://www.tipaccs.eu "https://www.tipaccs.eu") (Horizon 2020 / European Union)
     - 2017--2020: [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes") (Leibniz Association)

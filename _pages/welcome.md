@@ -11,17 +11,21 @@ redirect_from:
   - 
 ---
 
-Hi, I'm Julius. I am a PhD candidate and researcher in the [Earth System Analysis](https://www.pik-potsdam.de/research/earth-system-analysis "https://www.pik-potsdam.de/research/earth-system-analysis") department at the Potsdam Institute for Climate Impact Research (PIK), Germany.
+Hi, I'm Julius. I am a PhD candidate and researcher in the [Earth System Analysis](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis "https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis") department at the Potsdam Institute for Climate Impact Research (PIK), Germany.
 
 My research focuses on the stability and potential tipping points of the Antarctic ice sheet and their consequences for long-term sea-level rise under future global warming. The aim of my PhD project is to assess whether the interactions between the Greenland and Antarctic ice sheets increase the likelihood that a tipping of the Greenland ice sheet enhances the tipping potential of the Antarctic ice sheet.
 
-At PIK, I am part of the working group on Ice Dynamics led by [Prof. Ricarda Winkelmann](https://ricarda.science "https://ricarda.science") as well as PIK's FutureLab on [Earth Resilience in the Anthropocene](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience"). My work is funded by the Leibniz project [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes") on interacting tipping elements in the Earth system and the EU's Horizon 2020 project [TiPACCs](https://www.tipaccs.eu "https://www.tipaccs.eu") on tipping points in Antarctic climate components.<br />
+At PIK, I am part of the working group on [Ice Dynamics](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/ice-dynamics/ "https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/ice-dynamics/") led by Prof. Ricarda Winkelmann as well as PIK's FutureLab on [Earth Resilience in the Anthropocene](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience"). My work is funded by the Leibniz project [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes") on interacting tipping elements in the Earth system and the EU's Horizon 2020 project [TiPACCs](https://www.tipaccs.eu "https://www.tipaccs.eu") on tipping points in Antarctic climate components.<br />
 
 To get a better idea of my research focus, watch this short introduction video about the TiPACCs project:<br />
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gD7N8Z9PxqU?rel=0;modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
 
 ## News
+
+[<img src="/images/Cover_24_September_2020.png" style="float: right; margin-left: 10px; width: 100px">](publications/garbe-2020)
+**23 Sep 2020:** Our paper *"The hysteresis of the Antarctic Ice Sheet"* was published today in *Nature* and will be featured as the cover story of tomorrow's issue! You can find the paper [here](https://doi.org/10.1038/s41586-020-2727-5).<br />
+Also see the official [press release](https://www.pik-potsdam.de/en/news/latest-news/stability-check-on-antarctica-reveals-high-risk-for-long-term-sea-level-rise "https://www.pik-potsdam.de/en/news/latest-news/stability-check-on-antarctica-reveals-high-risk-for-long-term-sea-level-rise").
 
 **14 Feb 2020:** Our paper summarizing the results of the Linear Antarctic Response Model Intercomparison Project (*LARMIP-2*) is out! Find it [here](https://doi.org/10.5194/esd-11-35-2020 "https://doi.org/10.5194/esd-11-35-2020") (open access). Also see the official [press release](https://www.pik-potsdam.de/news/press-releases/the-antarctica-factor-model-uncertainties-reveal-upcoming-sea-level-risk "https://www.pik-potsdam.de/news/press-releases/the-antarctica-factor-model-uncertainties-reveal-upcoming-sea-level-risk").
 
