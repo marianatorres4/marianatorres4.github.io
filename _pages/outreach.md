@@ -11,7 +11,7 @@ redirect_from:
 
 ## Conference Contributions & Talks
 {% if site.talkmap_link == true %}
-  You can also see a [map of all the places I've given a talk](talkmap).
+  You can also see a [map of all the places I've given a talk](/talkmap/).
 {% endif %}
 
 {% for post in site.talks reversed %}
