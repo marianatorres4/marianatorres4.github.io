@@ -7,13 +7,18 @@ redirect_from:
   - 
 ---
 
-
 {% include base_path %}
 
+## Peer-Reviewed Publications
 {% if site.author.researchgate and site.author.googlescholar and site.author.orcid %}
   You can also find my articles on: <a href="{{ site.author.researchgate }}">ResearchGate</a> &#124; <a href="{{ site.author.googlescholar }}">Google Scholar</a> &#124; <a href="{{ site.author.orcid }}">ORCID</a>
 {% endif %}
 
 {% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Academic Theses
+{% for post in site.theses reversed %}
   {% include archive-single.html %}
 {% endfor %}

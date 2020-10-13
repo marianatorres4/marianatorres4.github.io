@@ -47,16 +47,15 @@ redirect_from:
 - **Mathematics courses:** analysis, complex analysis, linear algebra
 - **Climate physics courses:** ocean physics and modeling, atmospheric physics, ice dynamics, sea-ice physics and modeling
 - **Programming languages:** Python, R, Matlab, C++, Fortran, Bash/Unix, LaTeX, HTML, CSS, Markdown
-
-## Research Interests
-- Ice sheet / ice shelf modelling (co-development of [PISM](http://pism-docs.org/ "http://pism-docs.org/"))
-- Antarctic ice sheet stability and future sea-level change
-- Hysteresis behavior of the Antarctic ice sheet and Antarctic tipping points
-- Climate and socio-economic tipping interactions ([DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes"))
-- Earth system resilience ([ERAlab](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience"))
+- **Tools:** CDO, NCO, Conda, Git
 
 ## Publications
 <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+## Theses
+<ul>{% for post in site.theses reversed %}
     {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
