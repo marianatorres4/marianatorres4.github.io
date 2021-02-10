@@ -1,6 +1,6 @@
 ---
 title: "An overview of explanations for the problem of weak temperature gradients in warm climates in Earth history"
-collection: theses
+collection: publications_theses
 permalink: /theses/garbe-2013
 citation: "<b>Garbe, J.</b>: <i>&quot;Ein Überblick über Erklärungsversuche für das Problem der flachen Temperaturgradienten in Warmzeiten der Erdgeschichte&quot;</i>, B.Sc. Thesis, Department of Physics, Humboldt University of Berlin, 2013."
 date: 2013-12-16

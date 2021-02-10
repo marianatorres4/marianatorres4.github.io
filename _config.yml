@@ -228,7 +228,7 @@ defaults:
   # _publications_theses
   - scope:
       path: ""
-      type: theses
+      type: publications_theses
     values:
       layout: single
       author_profile: true
