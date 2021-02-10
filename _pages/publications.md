@@ -19,6 +19,6 @@ redirect_from:
 {% endfor %}
 
 ## Academic Theses
-{% for post in site.theses reversed %}
+{% for post in site.publications_theses reversed %}
   {% include archive-single.html %}
 {% endfor %}
