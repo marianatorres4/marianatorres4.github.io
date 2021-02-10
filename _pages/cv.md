@@ -55,7 +55,7 @@ redirect_from:
 {% endfor %}</ul>
 
 ## Theses
-<ul>{% for post in site.theses reversed %}
+<ul>{% for post in site.publications_theses reversed %}
     {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
