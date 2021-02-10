@@ -179,7 +179,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  theses:
+  publications_theses:
     output: true
     permalink: /:collection/:path/
   talks:
