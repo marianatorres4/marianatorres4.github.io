@@ -1,7 +1,6 @@
 ---
 title: "Projecting Antarctica's contribution to future sea level rise from basal ice shelf melt using linear response functions of 16 ice sheet models (LARMIP-2)"
 collection: publications
-permalink: /publications/levermann-winkelmann-2020
 citation: "Levermann, A., Winkelmann, R., Albrecht, T., Goelzer, H., Golledge, N. R., Greve, R., Huybrechts, P., Jordan, J., Leguy, G., Martin, D., Morlighem, M., Pattyn, F., Pollard, D., Quiquet, A., Rodehacke, C., Seroussi, H., Sutter, J., Zhang, T., Van Breedam, J., Calov, R., DeConto, R., Dumas, C., <b>Garbe, J.</b>, Gudmundsson, G. H., Hoffman, M. J., Humbert, A., Kleiner, T., Lipscomb, W. H., Meinshausen, M., Ng, E., Nowicki, S. M. J., Perego, M., Price, S. F., Saito, F., Schlegel, N.-J., Sun, S., and van de Wal, R. S. W.: <i>&quot;Projecting Antarctica's contribution to future sea level rise from basal ice shelf melt using linear response functions of 16 ice sheet models (LARMIP-2)&quot;</i>, Earth Syst. Dynam., 11, 35–76, DOI: <a href='https://doi.org/10.5194/esd-11-35-2020'>10.5194/esd-11-35-2020</a>, 2020."
 date: 2020-02-14
 venue: 'Earth Syst. Dynam.'
