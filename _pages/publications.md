@@ -22,3 +22,8 @@ redirect_from:
 {% for post in site.publications_theses reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+## Data
+{% for post in site.publications_data reversed %}
+  {% include archive-single.html %}
+{% endfor %}
