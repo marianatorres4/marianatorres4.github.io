@@ -1,7 +1,7 @@
 ---
 title: "PISM version as used in Garbe et al. (Nature, 2020) publication (Version v1.0-hysteresis-antarctica)"
 collection: publications_data
-permalink: /data/garbe-2020
+permalink: /publications/data/garbe-2020
 citation: "<b>Garbe, J.</b>, other PISM authors: <i>&quot;PISM version as used in Garbe et al. (Nature, 2020) publication (Version v1.0-hysteresis-antarctica)&quot;</i>, Zenodo, DOI: <a href='https://doi.org/10.5281/zenodo.3956431'>10.5281/zenodo.3956431</a>, 2020."
 date: 2020-07-22
 venue: 'Zenodo'

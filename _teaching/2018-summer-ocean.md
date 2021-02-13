@@ -2,7 +2,7 @@
 title: "Theory of ocean dynamics (Summer 2018)"
 collection: teaching
 type: "Graduate course, Teaching assistant"
-permalink: /teaching/2018-summer-ocean
+permalink: /outreach/teaching/2018-summer-ocean
 venue: "University of Potsdam, Institute of Physics and Astronomy"
 date: 2018-04-01
 ---

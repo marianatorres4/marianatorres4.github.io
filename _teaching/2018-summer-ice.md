@@ -2,7 +2,7 @@
 title: "Ice dynamics in Greenland and Antarctica (Summer 2018)"
 collection: teaching
 type: "Graduate course, Teaching assistant"
-permalink: /teaching/2018-summer-ice
+permalink: /outreach/teaching/2018-summer-ice
 venue: "University of Potsdam, Institute of Physics and Astronomy"
 date: 2018-04-01
 ---

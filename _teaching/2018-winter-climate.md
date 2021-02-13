@@ -2,7 +2,7 @@
 title: "Introduction to Climate Physics (Winter 2018/19)"
 collection: teaching
 type: "Graduate course, Teaching assistant"
-permalink: /teaching/2018-winter-climate
+permalink: /outreach/teaching/2018-winter-climate
 venue: "University of Potsdam, Institute of Physics and Astronomy"
 date: 2018-10-01
 ---
