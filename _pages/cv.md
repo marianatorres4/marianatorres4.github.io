@@ -40,7 +40,9 @@ redirect_from:
   - *Funding:*
     - Since 2020: [TiPACCs](https://www.tipaccs.eu "https://www.tipaccs.eu") (Horizon 2020 / European Union)
     - 2017--2020: [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes") (Leibniz Association)
-  - *Methods:* numerical simulations with the Parallel Ice Sheet Model ([PISM](http://pism-docs.org/ "http://pism-docs.org/")), model development and implementation with focus on ice-ocean interactions
+  - *Methods:* numerical simulations with the Parallel Ice Sheet Model ([PISM](http://pism-docs.org/ "http://pism-docs.org/")), model development and implementation with focus on ice-ocean / ice-atmosphere interactions
+- **M.Sc. student**, Potsdam Institute for Climate Impact Research, Potsdam, Germany (2016-2017)
+  - Embedded within the working group on [Earth System Modes of Operation](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation "https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation") led by Dr. habil. Georg Feulner
   
 ## Scientific Background
 - **Physics courses:** classical/analytical/fluid mechanics, thermodynamics, electrodynamics, optics, special relativity, quantum mechanics, particle physics, solid-state physics
@@ -49,17 +51,22 @@ redirect_from:
 - **Programming languages:** Python, R, Matlab, C++, Fortran, Bash/Unix, LaTeX, HTML, CSS, Markdown
 - **Tools:** CDO, NCO, Conda, Git
 
-## Publications
+## Peer-Reviewed Publications
 <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-## Theses
+## Academic Theses
 <ul>{% for post in site.publications_theses reversed %}
     {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
-## Talks and Conference Presentations
+## Data & Code
+<ul>{% for post in site.publications_data reversed %}
+    {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+## Conference Contributions & Talks
 <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>

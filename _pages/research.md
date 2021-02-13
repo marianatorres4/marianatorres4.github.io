@@ -26,7 +26,7 @@ To get a better idea of my research focus, watch this short introduction video a
 ## Models
 ### PISM
 <!-- <img src="/images/logo_pism.png" width="135"> -->
-The <a href="http://pism-docs.org/">Parallel Ice Sheet Model (PISM)</a> is an open-source, high-resolution computer model to simulate the flow of ice sheets and glaciers, which is adopted as a scientific tool by many research groups around the globe.
+For my research, I mainly use the <a href="http://pism-docs.org/">Parallel Ice Sheet Model (PISM)</a>. PISM is an open-source, high-resolution computer model to simulate the flow of ice sheets and glaciers, which is adopted as a scientific tool by many research groups around the globe.
 PISM is jointly developed at the University of Alaska, Fairbanks (UAF) and the Potsdam Institute for Climate Impact Research (PIK).
 
 <!-- {% include figure image_path="/images/pism_3d_4km_2020.png" alt="Antarctic Ice Sheet as simulated with PISM" caption="Antarctic Ice Sheet as simulated with PISM." %} -->
