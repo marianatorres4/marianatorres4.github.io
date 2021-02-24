@@ -19,7 +19,7 @@ To get a better idea of my research focus, watch this short introduction video a
 ## Research Interests
 - Ice sheet / ice shelf modelling (<i class="fas fa-arrow-circle-right"></i> co-development of [PISM](http://pism-docs.org/ "http://pism-docs.org/"))
 - Antarctic ice sheet stability and future sea-level change
-- Hysteresis behavior of the Antarctic ice sheet and Antarctic tipping points (<i class="fas fa-arrow-circle-right"></i> [Garbe et al., 2020](publications/garbe-2020 "publications/garbe-2020"))
+- Hysteresis behavior of the Antarctic ice sheet and Antarctic tipping points (<i class="fas fa-arrow-circle-right"></i> [Garbe et al., 2020](/publications/articles/garbe-2020 "/publications/articles/garbe-2020"))
 - Climate and socio-economic tipping interactions (<i class="fas fa-arrow-circle-right"></i> [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes"))
 - Earth system resilience (<i class="fas fa-arrow-circle-right"></i> [ERAlab](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience"))
 
