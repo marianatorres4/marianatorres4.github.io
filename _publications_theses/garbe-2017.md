@@ -7,7 +7,7 @@ date: 2017-02-14
 venue: 'Department of Earth Sciences, University of Hamburg'
 ---
 
-A PDF version can be made available on reasonable [request](mailto:julius.garbe@pik-potsdam.de "mailto:julius.garbe@pik-potsdam.de").
+A PDF version can be made available on reasonable [request](mailto:{{ site.author.email }} "mailto:{{ site.author.email }}").
 
 ## Abstract
 Due to very weak snowfall on the Antarctic Ice Sheet and the slow ice motion in its interior, it is expected that it might take at least several thousand years to regrow if its mass was substantially reduced by dynamic ice discharge triggered by global warming. Consequently, any significant ice loss from Antarctica that occurs within the next century will be irreversible on a multi-centennial to millennial time scale. Because of the ice sheet's enormous potential to raise global sea levels by almost 60 metres, this poses a serious threat to coastal populations and ecosystems.

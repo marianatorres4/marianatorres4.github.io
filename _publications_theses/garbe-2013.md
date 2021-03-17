@@ -7,7 +7,7 @@ date: 2013-12-16
 venue: 'Department of Physics, Humboldt University of Berlin'
 ---
 
-A PDF version (german only) can be made available on reasonable [request](mailto:julius.garbe@pik-potsdam.de "mailto:julius.garbe@pik-potsdam.de").
+A PDF version (german only) can be made available on reasonable [request](mailto:{{ site.author.email }} "mailto:{{ site.author.email }}").
 
 ## Abstract
 Our Earth's climate is subject to permanent fluctuations on very long time scales since its formation. Thus, particularly warm periods, lasting millions of years, repeatedly occurred in Earth's history that are associated with an increased concentration of atmospheric greenhouse gases. While paleodata show a lower temperature difference between the equator and the poles compared to today for this so-called "greenhouse states", their causes can not be explained by increased greenhouse gas concentrations solely and the correct simulation without extensive modification of the models has remained as one of the great unsolved problems of paleoclimatology.
