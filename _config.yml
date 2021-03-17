@@ -84,7 +84,7 @@ author:
   name             : *name # sidebar name
   avatar           : "IMG_6274.JPG"
   bio              : "PhD candidate and researcher at the Potsdam Institute for Climate Impact Research (PIK) at Potsdam, Germany." # sidebar bio
-  location         : "Potsdam, Germany"
+  location         : "Berlin, Germany"
   employer         : # "PIK Potsdam"
   googlescholar    : "https://scholar.google.com/citations?user=PHdduOoAAAAJ"
   email            : "julius.garbe@pik-potsdam.de"
@@ -103,6 +103,7 @@ author:
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0003-3140-3307"
+  phone            : "+49 331 288 2673"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
