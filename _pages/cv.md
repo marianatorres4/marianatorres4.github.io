@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "CV"
+title: "Curriculum Vitae"
 excerpt: "Education, scientific background, research interests & skills, and more."
 author_profile: true
 redirect_from:
@@ -11,10 +11,9 @@ redirect_from:
 
 <!-- Click [here](/cv-print/) for a printable version or [download a PDF](/files/cv-print.pdf).<br /><br /><br /> -->
 
-<h1 align="center">{{ site.author.name }}</h1>
-<p><h3 align="center">Curriculum Vitae</h3></p>
-
-<p align="center">{{ site.author.bio }}</p>
+<h2 align="center">{{ site.author.name }}</h2>
+<h3 align="center" style="margin: 0px auto 20px;">M.Sc.</h3>
+<p align="center" style="margin: auto; width: 80%">{{ site.author.bio }}</p>
 
 <p align="center"><i class="fas fa-envelope" aria-hidden="true"></i>&nbsp;<a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> &#124; <i class="fas fa-desktop" aria-hidden="true"></i>&nbsp;<a href="{{ site.author.uri }}">{{ site.author.uri | remove: "https://" }}</a> &#124; <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">@{{ site.author.twitter }}</a></p>
 
