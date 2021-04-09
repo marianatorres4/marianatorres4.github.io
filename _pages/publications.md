@@ -4,7 +4,9 @@ title: "Publications"
 excerpt: "List of academic publications."
 author_profile: true
 redirect_from: 
-  - 
+  - /publications/articles/
+  - /publications/theses/
+  - /publications/data/
 ---
 
 {% include base_path %}
