@@ -34,4 +34,40 @@
 <!-- Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
+<!-- Home page responsive columns -->
+<style>
+.homepage-column-left {
+  float: left;
+  width: 66.66%;
+  padding-right: 20px;
+  border: 1px solid black;
+}
+.homepage-column-right {
+  float: left;
+  width: 33.33%;
+  border: 1px solid black;
+}
+
+/* Clear floats after the columns */
+.homepage-row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - make the two columns stack on top of each other instead of next to each other if browser width is below 600px */
+@media screen and (max-width: 600px) {
+  .homepage-column-left {
+    width: 100%;
+    padding: 0px;
+    border: 1px solid black;
+  }
+  .homepage-column-right {
+    width: 100%;
+    margin-bottom: 30px;
+    border: 1px solid black;
+  }
+}
+</style>
+
 <!-- end custom head snippets -->
