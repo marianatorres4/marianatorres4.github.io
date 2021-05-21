@@ -12,7 +12,7 @@ redirect_from:
 ## Conference Contributions & Talks
 {% if site.talkmap_link == true %}
   You can also see a [map of all the places I've given a talk](/outreach/talkmap/).
-{% endif %}
+{% endif %}{: .notice--info}
 
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
