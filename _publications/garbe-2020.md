@@ -33,5 +33,4 @@ Selected media articles:
 - AR: [Aljazeera](https://www.aljazeera.net/news/science/2020/10/2/أحدث-دراسة-لذوبان-جليد-أنتراكتيكا "https://www.aljazeera.net/news/science/2020/10/2/أحدث-دراسة-لذوبان-جليد-أنتراكتيكا")
 
 ## Animation
-<div style="position: relative; width: 80%; margin-left: auto; margin-right: auto;">
-<iframe width="1200" height="1366" style="display: block;" src="https://www.youtube.com/embed/hOQK1BUuseY?rel=0;modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{% include video id="hOQK1BUuseY" provider="youtube" %}
