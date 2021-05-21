@@ -13,8 +13,7 @@ redirect_from:
 My research focuses on the long-term stability and potential critical thresholds - so-called 'tipping points' - of the Antarctic ice sheet and their consequences for long-term sea-level rise under the scope of future global warming. In particular, I investigate how the stability of the Antarctic ice sheet is affected by the influence of interacting tipping elements in the global climate system, such as the Greenland ice sheet or the Atlantic meridional overturning circulation. The aim of my PhD project is to assess whether the interactions between the Greenland and Antarctic ice sheets increase the likelihood that a tipping of the Greenland ice sheet enhances the tipping potential of the Antarctic ice sheet.
 
 To get a better idea of my research focus, watch this short introduction video about the TiPACCs project:
-<div style="position: relative; width: 80%; margin-left: auto; margin-right: auto;">
-<iframe width="560" height="315" style="display: block;" src="https://www.youtube.com/embed/gD7N8Z9PxqU?rel=0;modestbranding=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{% include video id="gD7N8Z9PxqU" provider="youtube" %}
 
 ## Research Interests
 - Ice sheet / ice shelf modelling (<i class="fas fa-arrow-circle-right"></i> co-development of [PISM](http://pism-docs.org/ "http://pism-docs.org/"))
