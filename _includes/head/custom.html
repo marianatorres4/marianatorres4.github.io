@@ -34,8 +34,9 @@
 <!-- Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
-<!-- Home page responsive columns -->
+<!-- Additional custom styles -->
 <style>
+/* Home page responsive columns */
 .homepage-column-left {
   float: left;
   width: 66.66%;
@@ -47,14 +48,11 @@
   width: 33.33%;
   border: 0px;
 }
-
-/* Clear floats after the columns */
-.homepage-row:after {
+.homepage-row:after { /* Clear floats after the columns */
   content: "";
   display: table;
   clear: both;
 }
-
 /* Responsive layout - make the two columns stack on top of each other instead of next to each other if browser width is below 600px */
 @media screen and (max-width: 600px) {
   .homepage-column-left {
@@ -68,6 +66,17 @@
     border: 0px;
   }
 }
+/* search input box style */
+.search-input {
+   -webkit-appearance: none;
+   border: 0;
+   border-radius: .25em;
+   font-family: inherit;
+   font-size: 1.25em;
+   margin: 2em auto 1em;
+   padding: .5em;
+   width: 100%;
+ }
 </style>
 
 <!-- end custom head snippets -->
