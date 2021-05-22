@@ -39,8 +39,6 @@ en: &DEFAULT_EN
   comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
   comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
   loading_label              : "Loading..."
-  search_placeholder_text    : "Type to start searching..."
-  results_found              : "Result(s) found"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -89,8 +87,6 @@ es: &DEFAULT_ES
   comment_success_msg        :
   comment_error_msg          :
   loading_label              :
-  search_placeholder_text    : "Términos de búsqueda..."
-  results_found              : "resultado(s) encontrado(s)"
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
@@ -135,8 +131,6 @@ fr: &DEFAULT_FR
   comment_success_msg        :
   comment_error_msg          :
   loading_label              :
-  search_placeholder_text    : "Entrez votre recherche..."
-  results_found              : "Résultat(s) trouvé(s)"
 fr-FR:
   <<: *DEFAULT_FR
 fr-BE:
@@ -183,8 +177,6 @@ tr: &DEFAULT_TR
   comment_success_msg        :
   comment_error_msg          :
   loading_label              :
-  search_placeholder_text    :
-  results_found              :
 tr-TR:
   <<: *DEFAULT_TR
 
@@ -227,8 +219,6 @@ pt: &DEFAULT_PT
   comment_success_msg        : "Obrigado por seu comentário! Ele será exibido no site depois de aprovado."
   comment_error_msg          : "Desculpe, houve um erro com o seu envio. Certifique-se de que todos os campos obrigatórios foram preenchidos e tente novamente."
   loading_label              : "Carregando..."
-  search_placeholder_text    :
-  results_found              :
 pt-BR:
   <<: *DEFAULT_PT
 pt-PT:
@@ -273,8 +263,6 @@ it: &DEFAULT_IT
   comment_success_msg        :
   comment_error_msg          :
   loading_label              :
-  search_placeholder_text    : "Pesquisar..."
-  results_found              : "Resultado(s) encontrado(s)"
 it-IT:
   <<: *DEFAULT_IT
 
