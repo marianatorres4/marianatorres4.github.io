@@ -22,7 +22,7 @@ layout: default
 
     {{ content }}
 
-     <input placeholder="Type to start searching..." type="search" id="search" class="search-input">
+     <input placeholder="{{ site.data.ui-text[site.locale].search_placeholder_text | default: 'Enter your search term...' }}" type="search" id="search" class="search-input">
      <div id="results"></div>
 
   </div>
