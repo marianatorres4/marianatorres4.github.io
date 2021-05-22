@@ -4,7 +4,8 @@ title: "Science Outreach"
 excerpt: "List of past and upcoming scientific talks, conference presentations, workshops, and taught courses."
 author_profile: true
 redirect_from: 
-  - 
+  - /outreach/talks/
+  - /outreach/teaching/
 ---
 
 {% include base_path %}
