@@ -1,4 +1,9 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+{% if site.search == true or page.layout == 'search' %}
+  <script src="{{ base_path }}/assets/js/lunr.min.js"></script>
+  <script src="{{ base_path }}/assets/js/lunr-en.js"></script>
+{% endif %}
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
