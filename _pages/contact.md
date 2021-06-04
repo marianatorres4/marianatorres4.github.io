@@ -33,9 +33,10 @@ Germany
 
 ### Online
 <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">Twitter</a><br />
-<i class="ai ai-researchgate-square" aria-hidden="true"></i>&nbsp;&nbsp;<a href="{{ site.author.researchgate }}">ResearchGate</a><br />
-<i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="{{ site.author.googlescholar }}">Google Scholar</a><br />
-<i class="ai ai-orcid"></i>&nbsp;&nbsp;<a href="{{ site.author.orcid }}">ORCID</a><br />
+<i class="fab fa-linkedin" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a><br />
+<i class="ai ai-researchgate-square" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}">ResearchGate</a><br />
+<i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user={{ site.author.googlescholar }}">Google Scholar</a><br />
+<i class="ai ai-orcid"></i>&nbsp;&nbsp;<a href="https://orcid.org/{{ site.author.orcid }}">ORCID</a><br />
 <i class="fab fa-github"></i>&nbsp;&nbsp;<a href="https://github.com/{{ site.author.github }}">Github</a><br />
 
 <!-- <img src="/images/018_Telegrafenberg_Suering_Haus_PIK.jpg" alt="018_Telegrafenberg_Suering_Haus_PIK" title="PIK's Suering building at Telegrafenberg, Potsdam. Photo &copy; Andrea Künstle" width="450"><br />

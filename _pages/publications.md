@@ -13,7 +13,7 @@ redirect_from:
 
 ## Peer-Reviewed Publications
 {% if site.author.researchgate and site.author.googlescholar and site.author.orcid %}
-  <div class="notice--info">You can also find my articles on: <a href="{{ site.author.researchgate }}">ResearchGate</a> &#124; <a href="{{ site.author.googlescholar }}">Google Scholar</a> &#124; <a href="{{ site.author.orcid }}">ORCID</a></div>
+  <div class="notice--info">You can also find my articles on: <a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}">ResearchGate</a> &#124; <a href="https://scholar.google.com/citations?user={{ site.author.googlescholar }}">Google Scholar</a> &#124; <a href="https://orcid.org/{{ site.author.orcid }}">ORCID</a></div>
 {% endif %}
 
 {% for post in site.publications reversed %}

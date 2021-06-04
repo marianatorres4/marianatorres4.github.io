@@ -101,15 +101,15 @@
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
       {% if author.researchgate %}
-        <li><a href="{{ author.researchgate }}"><i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate</a></li>
+        <li><a href="https://www.researchgate.net/profile/{{ author.researchgate }}"><i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate</a></li>
         <!-- academicon: "ai ai-researchgate-square" fontawesome: "fab fa-researchgate" -->
       {% endif %}
       {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a></li>
+        <li><a href="https://scholar.google.com/citations?user={{ author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a></li>
         <!-- academicon: "ai ai-google-scholar-square" fontawesome: "fas fa-graduation-cap" -->
       {% endif %}
       {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid"></i> ORCID</a></li>
+        <li><a href="https://orcid.org/{{ author.orcid }}"><i class="ai ai-orcid"></i> ORCID</a></li>
       {% endif %}
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-github" aria-hidden="true"></i> Github</a></li>
