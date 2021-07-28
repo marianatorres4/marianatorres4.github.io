@@ -12,7 +12,7 @@ redirect_from:
 ## PhD Project
 My research focuses on the long-term stability and potential critical thresholds - so-called 'tipping points' - of the Antarctic ice sheet and their consequences for long-term sea-level rise under the scope of future global warming. In particular, I investigate how the stability of the Antarctic ice sheet is affected by the influence of interacting tipping elements in the global climate system, such as the Greenland ice sheet or the Atlantic meridional overturning circulation. The aim of my PhD project is to assess whether the interactions between the Greenland and Antarctic ice sheets increase the likelihood that a tipping of the Greenland ice sheet enhances the tipping potential of the Antarctic ice sheet.
 
-{% include figure image_path="/images/Fig4_pressrelease.png" class="half" alt="Simulated equilibrium states of the Antarctic Ice Sheet" caption="Simulated equilibrium states of the Antarctic Ice Sheet (from [Garbe et al., 2020](/publications/articles/garbe-2020 '/publications/articles/garbe-2020'))." %}
+{% include figure image_path="/images/Fig4_pressrelease.png" class="half" style="display:block;text-align:center;" alt="Simulated equilibrium states of the Antarctic Ice Sheet" caption="Simulated equilibrium states of the Antarctic Ice Sheet (from [Garbe et al., 2020](/publications/articles/garbe-2020 '/publications/articles/garbe-2020'))." %}
 
 To get a better idea of my research focus, watch this short introduction video about the TiPACCs project:
 {% include video id="gD7N8Z9PxqU" provider="youtube" %}
@@ -29,7 +29,7 @@ To get a better idea of my research focus, watch this short introduction video a
 For my research, I mainly use and co-develop the <a href="http://pism-docs.org/">Parallel Ice Sheet Model (PISM)</a>. PISM is an open-source, high-resolution computer model to simulate the flow of ice sheets and glaciers, which is adopted as a scientific tool by many research groups around the globe.
 PISM is jointly developed at the University of Alaska, Fairbanks (UAF) and the Potsdam Institute for Climate Impact Research (PIK).
 
-{% include figure image_path="/images/pism_3d_4km_2020.png" class="half" alt="Antarctic Ice Sheet as simulated with PISM" caption="Antarctic Ice Sheet as simulated with PISM." %}
+{% include figure image_path="/images/pism_3d_4km_2020.png" class="half" style="display:block;text-align:center;" alt="Antarctic Ice Sheet as simulated with PISM" caption="Antarctic Ice Sheet as simulated with PISM." %}
 
 ### Modelling Sandbox
 Want to play around with some simple ice-sheet models yourself? Check out [this Github repository](https://github.com/juliusgarbe/modelling_sandbox "https://github.com/juliusgarbe/modelling_sandbox")!

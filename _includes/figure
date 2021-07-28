@@ -1,4 +1,5 @@
-<figure class="{{ include.class }}">
+<figure class="{{ include.class }}" 
+        style="{% if include.style %}{{ include.style }}{% endif %}">
   <img src="{{ include.image_path | relative_url }}"
        alt="{% if include.alt %}{{ include.alt }}{% endif %}">
   {% if include.caption %}
