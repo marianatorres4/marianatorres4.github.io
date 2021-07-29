@@ -18,7 +18,7 @@ To get a better idea of my research focus, watch this short introduction video a
 {% include video id="gD7N8Z9PxqU" provider="youtube" %}
 
 ## Research Interests
-- Ice sheet / ice shelf modelling (<i class="fas fa-arrow-circle-right"></i> co-development of [PISM](http://pism-docs.org/ "http://pism-docs.org/"))
+- Ice sheet / ice shelf modeling (<i class="fas fa-arrow-circle-right"></i> co-development of [PISM](http://pism-docs.org/ "http://pism-docs.org/"))
 - Antarctic ice sheet stability and future sea-level change
 - Hysteresis behavior of the Antarctic ice sheet and Antarctic tipping points (<i class="fas fa-arrow-circle-right"></i> [Garbe et al., 2020](/publications/articles/garbe-2020 "/publications/articles/garbe-2020"))
 - Climate and socio-economic tipping interactions (<i class="fas fa-arrow-circle-right"></i> [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes"))
@@ -31,5 +31,5 @@ PISM is jointly developed at the University of Alaska, Fairbanks (UAF) and the P
 
 {% include figure image_path="/images/pism_3d_4km_2020.png" class="half" style="display:block;text-align:center;" alt="Antarctic Ice Sheet as simulated with PISM" caption="Antarctic Ice Sheet as simulated with PISM." %}
 
-### Modelling Sandbox
+### Modeling Sandbox
 Want to play around with some simple ice-sheet models yourself? Check out [this Github repository](https://github.com/juliusgarbe/modelling_sandbox "https://github.com/juliusgarbe/modelling_sandbox")!
