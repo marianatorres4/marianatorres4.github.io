@@ -5,6 +5,11 @@ var addressPoints = [
     16.3725042
   ],
   [
+    "The Hysteresis of the Antarctic Ice Sheet | InTENSE Workshop, Bad Belzig, Germany",
+    52.1405622,
+    12.5865873
+  ],
+  [
     "Hysteresis behaviour of the Antarctic Ice Sheet with the Parallel Ice Sheet Model | EGU General Assembly 2018, Vienna, Austria",
     48.2083537,
     16.3725042
@@ -37,6 +42,6 @@ var addressPoints = [
   [
     "Long-term stability of the Antarctic Ice Sheet | AGU Fall Meeting 2019, San Francisco (CA), USA",
     37.7790262,
-    -122.4199061
+    -122.419906
   ]
 ];
