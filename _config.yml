@@ -64,7 +64,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "IMG_6274.JPG" # Open Graph/Twitter default site image
+og_image                 : "avatar/IMG_6274.JPG" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : *name # sidebar name
-  avatar           : "IMG_6274.JPG"
+  avatar           : "avatar/IMG_6274.JPG"
   bio              : "PhD candidate and climate researcher at the Potsdam Institute for Climate Impact Research, Germany." # sidebar bio
   location         : "Berlin, Germany"
   employer         : # "PIK Potsdam"
