@@ -2,6 +2,10 @@
 permalink: /research/
 title: "Research"
 excerpt: "More about my research, research interests and models I'm currently working with."
+header:
+  overlay_image: header/header1.jpg
+  overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
+  caption: "Photo: J. Garbe"
 author_profile: true
 redirect_from: 
   - 
