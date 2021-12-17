@@ -1,8 +1,17 @@
-liveserve:
+# Usage:
+# make install	# install required gems
+# make update	# upgrade outdated gems
+# make serve	# build site and start local server
+
+.PHONY: all install update serve
+
+all: serve
+
+serve: install
 	bundle exec jekyll liveserve --config "_config.yml,_config.dev.yml"
 
-install:
-	bundle install
+update:
+	bundle update
 
-clean:
-	bundle clean
+install: 
+	bundle install
