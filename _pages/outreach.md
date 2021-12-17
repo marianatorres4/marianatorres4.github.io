@@ -16,7 +16,7 @@ redirect_from:
 
 ## Conference Contributions & Talks
 {% if site.talkmap_link == true %}
-  You can also see a [map of all the places I've given a talk](/outreach/talkmap/).
+  <i class="fas fa-map-marked-alt"></i> You can also see a [map of all the places I've given a talk](/outreach/talkmap/).
 {% endif %}{: .notice--info}
 
 {% for post in site.talks reversed %}
