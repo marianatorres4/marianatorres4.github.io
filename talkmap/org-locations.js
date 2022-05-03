@@ -10,6 +10,11 @@ var addressPoints = [
     12.5865873
   ],
   [
+    "The Hysteresis of the Antarctic Ice Sheet | 28th International Polar Conference, Potsdam, Germany",
+    52.4009309,
+    13.0591397
+  ],
+  [
     "Hysteresis behaviour of the Antarctic Ice Sheet with the Parallel Ice Sheet Model | EGU General Assembly 2018, Vienna, Austria",
     48.2083537,
     16.3725042
@@ -18,6 +23,11 @@ var addressPoints = [
     "Tipping of the Antarctic Ice Sheet influenced by Greenland ice loss | Potsdam Institute for Climate Impact Research, Potsdam, Germany",
     52.4009309,
     13.0591397
+  ],
+  [
+    "The evolution of future Antarctic surface melt using PISM-dEBM-simple | EGU General Assembly 2022, Vienna, Austria",
+    48.2083537,
+    16.3725042
   ],
   [
     "The Hysteresis of the Antarctic Ice Sheet | Potsdam Institute for Climate Impact Research, Potsdam, Germany (online)",
