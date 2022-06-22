@@ -2,7 +2,7 @@
 title: "The stability of present-day Antarctic grounding lines — Part B: Possible commitment of regional collapse under current climate"
 collection: publications
 permalink: /publications/articles/reese-2022
-citation: "Reese, R., <b>Garbe, J.</b>, Hill, E. A., Urruty, B., Naughten, K. A., Gagliardini, O., Durand, G., Gillet-Chaulet, F., Chandler, D., Langebroek, P. M., Winkelmann, R.: <i>&quot;The stability of present-day Antarctic grounding lines — Part B: Possible commitment of regional collapse under current climate&quot;</i>, The Cryosphere Discuss. [preprint], in review, DOI: <a href='https://doi.org/10.5194/tc-2022-105'>10.5194/tc-2022-105</a>, 2022."
+citation: "Reese, R., <b>Garbe, J.</b>, Hill, E. A., Urruty, B., Naughten, K. A., Gagliardini, O., Durand, G., Gillet-Chaulet, F., Chandler, D., Langebroek, P. M., Winkelmann, R.: <i>The stability of present-day Antarctic grounding lines — Part B: Possible commitment of regional collapse under current climate</i>, The Cryosphere Discuss. [preprint], in review, DOI: <a href='https://doi.org/10.5194/tc-2022-105'>10.5194/tc-2022-105</a>, 2022."
 date: 2022-05-31
 venue: 'The Cryosphere Discussions'
 ---

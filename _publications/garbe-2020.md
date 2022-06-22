@@ -2,7 +2,7 @@
 title: "The hysteresis of the Antarctic Ice Sheet"
 collection: publications
 permalink: /publications/articles/garbe-2020
-citation: "<b>Garbe, J.</b>, Albrecht, T., Levermann, A., Donges, J. F., and Winkelmann, R.: <i>&quot;The hysteresis of the Antarctic Ice Sheet&quot;</i>, Nature, 585, 538–544, DOI: <a href='https://doi.org/10.1038/s41586-020-2727-5'>10.1038/s41586-020-2727-5</a>, 2020."
+citation: "<b>Garbe, J.</b>, Albrecht, T., Levermann, A., Donges, J. F., and Winkelmann, R.: <i>The hysteresis of the Antarctic Ice Sheet</i>, Nature, 585, 538–544, DOI: <a href='https://doi.org/10.1038/s41586-020-2727-5'>10.1038/s41586-020-2727-5</a>, 2020."
 date: 2020-09-23
 venue: 'Nature'
 ---

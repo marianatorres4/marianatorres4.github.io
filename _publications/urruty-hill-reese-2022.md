@@ -2,7 +2,7 @@
 title: "The stability of present-day Antarctic grounding lines — Part A: No indication of marine ice sheet instability in the current geometry"
 collection: publications
 permalink: /publications/articles/urruty-hill-reese-2022
-citation: "Urruty, B.*, Hill, E. A.*, Reese, R.*, <b>Garbe, J.</b>, Gagliardini, O., Durand, G., Gillet-Chaulet, F., Gudmundsson, G. H., Winkelmann, R., Chekki, M., Chandler, D., Langebroek, P. M.: <i>&quot;The stability of present-day Antarctic grounding lines — Part A: No indication of marine ice sheet instability in the current geometry&quot;</i>, The Cryosphere Discuss. [preprint], in review, DOI: <a href='https://doi.org/10.5194/tc-2022-104'>10.5194/tc-2022-104</a>, 2022. <i>*These authors contributed equally to this work.</i>"
+citation: "Urruty, B.*, Hill, E. A.*, Reese, R.*, <b>Garbe, J.</b>, Gagliardini, O., Durand, G., Gillet-Chaulet, F., Gudmundsson, G. H., Winkelmann, R., Chekki, M., Chandler, D., Langebroek, P. M.: <i>The stability of present-day Antarctic grounding lines — Part A: No indication of marine ice sheet instability in the current geometry</i>, The Cryosphere Discuss. [preprint], in review, DOI: <a href='https://doi.org/10.5194/tc-2022-104'>10.5194/tc-2022-104</a>, 2022. <i>*These authors contributed equally to this work.</i>"
 date: 2022-06-01
 venue: 'The Cryosphere Discussions'
 ---
