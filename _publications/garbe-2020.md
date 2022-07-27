@@ -19,22 +19,36 @@ More than half of Earth's freshwater resources are held by the Antarctic Ice She
 
 ## Media Coverage
 <div style="float: right; margin-left: 10px;">
+    <!-- Altmetric -->
     <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-    <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1038/s41586-020-2727-5" data-condensed="true" class="altmetric-embed"></div>
+    <div data-badge-popover="right" data-badge-type="medium-donut" data-doi="10.1038/s41586-020-2727-5" data-condensed="true" class="altmetric-embed"></div>
+    <br />
+    <!-- PlumX -->
+    <script type='text/javascript' src='https://cdn.plu.mx/widget-popup.js'></script>
+    <a href="https://plu.mx/plum/a/?doi=10.1038%2Fs41586-020-2727-5" data-popup="right" data-size="large" class="plumx-plum-print-popup plum-bigben-theme" data-site="plum">The hysteresis of the Antarctic Ice Sheet</a>
+    <br />
+    <!-- Dimensions -->
+    <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+    <span class="__dimensions_badge_embed__" data-doi="10.1038/s41586-020-2727-5" data-legend="hover-right"></span>
 </div>
 Selected media articles:
-- EN: [The Guardian](https://www.theguardian.com/environment/2020/sep/23/melting-antarctic-ice-will-raise-sea-level-by-25-metres-even-if-paris-climate-goals-are-met-study-finds "https://www.theguardian.com/environment/2020/sep/23/melting-antarctic-ice-will-raise-sea-level-by-25-metres-even-if-paris-climate-goals-are-met-study-finds"),
-[ScienceNews](https://www.sciencenews.org/article/global-warming-practically-irreversible-antarctic-melting "https://www.sciencenews.org/article/global-warming-practically-irreversible-antarctic-melting"),
-[IBTimes](https://www.ibtimes.com/global-warming-impact-rising-temperature-could-melt-antarctica-irreversibly-warns-new-3054228 "https://www.ibtimes.com/global-warming-impact-rising-temperature-could-melt-antarctica-irreversibly-warns-new-3054228"),
-[Daily Mail](https://www.dailymail.co.uk/sciencetech/article-8763931/Disturbing-video-shows-Antarctica-emerging-ice-temperatures-rise.html "https://www.dailymail.co.uk/sciencetech/article-8763931/Disturbing-video-shows-Antarctica-emerging-ice-temperatures-rise.html"), [Mongabay](https://news.mongabay.com/2020/10/antarctic-ice-sheet-is-primed-to-pass-irreversible-climate-thresholds-researchers/ "https://news.mongabay.com/2020/10/antarctic-ice-sheet-is-primed-to-pass-irreversible-climate-thresholds-researchers/")
-- DE: [DER SPIEGEL](https://www.spiegel.de/wissenschaft/natur/eis-der-antarktis-simulationen-warnen-vor-langfristigem-auftauen-a-ee20e95d-f682-46e4-bb3f-dc1a4c607c4a "https://www.spiegel.de/wissenschaft/natur/eis-der-antarktis-simulationen-warnen-vor-langfristigem-auftauen-a-ee20e95d-f682-46e4-bb3f-dc1a4c607c4a"),
-[t-online](https://www.t-online.de/nachhaltigkeit/id_88632964/animation-zeigt-antarktis-eisschmelze-hat-weltweit-dramatische-folgen.html "https://www.t-online.de/nachhaltigkeit/id_88632964/animation-zeigt-antarktis-eisschmelze-hat-weltweit-dramatische-folgen.html"),
-[Der Standard](https://www.derstandard.at/story/2000120260057/erwaermung-macht-eisverlust-in-der-antarktis-unumkehrbar "https://www.derstandard.at/story/2000120260057/erwaermung-macht-eisverlust-in-der-antarktis-unumkehrbar")
-- ES: [La Vanguardia](https://www.lavanguardia.com/natural/20200929/483747386785/simulacion-hielo-antartida-calentamiento-global-derretimiento-nivel-del-mar-estudio.html "https://www.lavanguardia.com/natural/20200929/483747386785/simulacion-hielo-antartida-calentamiento-global-derretimiento-nivel-del-mar-estudio.html"), [LA RAZÓN](https://www.larazon.es/ciencia/20201015/szym7cl5mjektgls4lioylde2a.html "https://www.larazon.es/ciencia/20201015/szym7cl5mjektgls4lioylde2a.html")
-- FR: [La Presse](https://www.lapresse.ca/actualites/environnement/2020-09-27/le-declin-des-glaciers-antarctiques-irreversible.php "https://www.lapresse.ca/actualites/environnement/2020-09-27/le-declin-des-glaciers-antarctiques-irreversible.php")
-- IT: [ANSA](https://www.ansa.it/canale_scienza_tecnica/notizie/terra_poli/2020/09/23/antartide-la-fusione-dei-ghiacci-minaccia-citta-come-new-york-_bb52da6a-8b53-4bb7-86a3-ca35b3e178d6.html "https://www.ansa.it/canale_scienza_tecnica/notizie/terra_poli/2020/09/23/antartide-la-fusione-dei-ghiacci-minaccia-citta-come-new-york-_bb52da6a-8b53-4bb7-86a3-ca35b3e178d6.html")
-- NL: [NRC](https://www.nrc.nl/nieuws/2020/09/23/antarctica-smelt-sprongsgewijs-a4013304 "https://www.nrc.nl/nieuws/2020/09/23/antarctica-smelt-sprongsgewijs-a4013304")
-- AR: [Aljazeera](https://www.aljazeera.net/news/science/2020/10/2/أحدث-دراسة-لذوبان-جليد-أنتراكتيكا "https://www.aljazeera.net/news/science/2020/10/2/أحدث-دراسة-لذوبان-جليد-أنتراكتيكا")
+
+🇬🇧 - [The Guardian](https://www.theguardian.com/environment/2020/sep/23/melting-antarctic-ice-will-raise-sea-level-by-25-metres-even-if-paris-climate-goals-are-met-study-finds "https://www.theguardian.com/environment/2020/sep/23/melting-antarctic-ice-will-raise-sea-level-by-25-metres-even-if-paris-climate-goals-are-met-study-finds"),
+[Euronews](https://www.euronews.com/green/2020/11/16/what-s-the-impact-of-melting-ice-on-rising-sea-levels "https://www.euronews.com/green/2020/11/16/what-s-the-impact-of-melting-ice-on-rising-sea-levels"), [ScienceNews](https://www.sciencenews.org/article/global-warming-practically-irreversible-antarctic-melting "https://www.sciencenews.org/article/global-warming-practically-irreversible-antarctic-melting"),
+[IBTimes](https://www.ibtimes.com/global-warming-impact-rising-temperature-could-melt-antarctica-irreversibly-warns-new-3054228 "https://www.ibtimes.com/global-warming-impact-rising-temperature-could-melt-antarctica-irreversibly-warns-new-3054228"), [Mongabay](https://news.mongabay.com/2020/10/antarctic-ice-sheet-is-primed-to-pass-irreversible-climate-thresholds-researchers/ "https://news.mongabay.com/2020/10/antarctic-ice-sheet-is-primed-to-pass-irreversible-climate-thresholds-researchers/"), [The Sun](https://www.thesun.co.uk/tech/12757901/global-sea-levels-to-rise-study/ "https://www.thesun.co.uk/tech/12757901/global-sea-levels-to-rise-study/"), [Daily Mail](https://www.dailymail.co.uk/sciencetech/article-8763931/Disturbing-video-shows-Antarctica-emerging-ice-temperatures-rise.html "https://www.dailymail.co.uk/sciencetech/article-8763931/Disturbing-video-shows-Antarctica-emerging-ice-temperatures-rise.html")
+
+🇩🇪 - [DER SPIEGEL](https://www.spiegel.de/wissenschaft/natur/eis-der-antarktis-simulationen-warnen-vor-langfristigem-auftauen-a-ee20e95d-f682-46e4-bb3f-dc1a4c607c4a "https://www.spiegel.de/wissenschaft/natur/eis-der-antarktis-simulationen-warnen-vor-langfristigem-auftauen-a-ee20e95d-f682-46e4-bb3f-dc1a4c607c4a"),
+[t-online](https://www.t-online.de/nachhaltigkeit/id_88632964/animation-zeigt-antarktis-eisschmelze-hat-weltweit-dramatische-folgen.html "https://www.t-online.de/nachhaltigkeit/id_88632964/animation-zeigt-antarktis-eisschmelze-hat-weltweit-dramatische-folgen.html"), [heise online](https://www.heise.de/tp/features/Auflebender-Klimaprotest-abschmelzende-Antarktis-4914502.html "https://www.heise.de/tp/features/Auflebender-Klimaprotest-abschmelzende-Antarktis-4914502.html"), [Der Standard](https://www.derstandard.at/story/2000120260057/erwaermung-macht-eisverlust-in-der-antarktis-unumkehrbar "https://www.derstandard.at/story/2000120260057/erwaermung-macht-eisverlust-in-der-antarktis-unumkehrbar")
+
+🇪🇸 - [La Vanguardia](https://www.lavanguardia.com/natural/20200929/483747386785/simulacion-hielo-antartida-calentamiento-global-derretimiento-nivel-del-mar-estudio.html "https://www.lavanguardia.com/natural/20200929/483747386785/simulacion-hielo-antartida-calentamiento-global-derretimiento-nivel-del-mar-estudio.html"), [LA RAZÓN](https://www.larazon.es/ciencia/20201015/szym7cl5mjektgls4lioylde2a.html "https://www.larazon.es/ciencia/20201015/szym7cl5mjektgls4lioylde2a.html")
+
+🇫🇷 - [France24](https://www.france24.com/en/20200923-antarctica-to-lift-seas-by-metres-per-degree-of-warming-study "https://www.france24.com/en/20200923-antarctica-to-lift-seas-by-metres-per-degree-of-warming-study"), [RFI](https://www.rfi.fr/en/wires/20200923-antarctica-lift-seas-metres-degree-warming-study "https://www.rfi.fr/en/wires/20200923-antarctica-lift-seas-metres-degree-warming-study"), [RTBF.be](https://www.rtbf.be/article/chaque-degre-influence-la-hausse-du-niveau-des-mers-et-la-fonte-de-l-antarctique-10597574?id=10597574 "https://www.rtbf.be/article/chaque-degre-influence-la-hausse-du-niveau-des-mers-et-la-fonte-de-l-antarctique-10597574?id=10597574"), [La Presse](https://www.lapresse.ca/actualites/environnement/2020-09-27/le-declin-des-glaciers-antarctiques-irreversible.php "https://www.lapresse.ca/actualites/environnement/2020-09-27/le-declin-des-glaciers-antarctiques-irreversible.php")
+
+🇮🇹 - [ANSA](https://www.ansa.it/canale_scienza_tecnica/notizie/terra_poli/2020/09/23/antartide-la-fusione-dei-ghiacci-minaccia-citta-come-new-york-_bb52da6a-8b53-4bb7-86a3-ca35b3e178d6.html "https://www.ansa.it/canale_scienza_tecnica/notizie/terra_poli/2020/09/23/antartide-la-fusione-dei-ghiacci-minaccia-citta-come-new-york-_bb52da6a-8b53-4bb7-86a3-ca35b3e178d6.html")
+
+🇳🇱 - [NRC](https://www.nrc.nl/nieuws/2020/09/23/antarctica-smelt-sprongsgewijs-a4013304 "https://www.nrc.nl/nieuws/2020/09/23/antarctica-smelt-sprongsgewijs-a4013304")
+
+🇶🇦 - [Al Jazeera](https://www.aljazeera.net/news/science/2020/10/2/أحدث-دراسة-لذوبان-جليد-أنتراكتيكا "https://www.aljazeera.net/news/science/2020/10/2/أحدث-دراسة-لذوبان-جليد-أنتراكتيكا")
 
 ## Animation
 {% include video id="hOQK1BUuseY" provider="youtube" %}
