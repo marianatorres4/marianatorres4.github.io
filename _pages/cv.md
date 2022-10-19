@@ -36,7 +36,7 @@ redirect_from:
 - **PhD candidate and researcher**, Potsdam Institute for Climate Impact Research, 2017-present
   - *Working group:* [Ice Dynamics](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/ice-dynamics/ "https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/ice-dynamics/")
   - *FutureLab:* [Earth Resilience in the Anthropocene](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience")
-  - *Funding:* Leibniz [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes"), EU Horizon 2020 [TiPACCs](https://www.tipaccs.eu "https://www.tipaccs.eu")
+  - *Funding:* [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes") (Leibniz Association), [TiPACCs](https://www.tipaccs.eu "https://www.tipaccs.eu") (EU H2020)
 - **M.Sc. student**, Potsdam Institute for Climate Impact Research, 2016-2017
   - *Working group:* [Earth System Modes of Operation](https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation "https://www.pik-potsdam.de/en/institute/departments/earth-system-analysis/research/earth-system-modes-of-operation")
   
