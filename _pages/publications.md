@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
-excerpt: "List of academic publications."
+excerpt: "List of academic articles."
 header:
   overlay_image: header/header3.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
@@ -9,15 +9,21 @@ header:
 author_profile: true
 redirect_from: 
   - /publications/articles/
+  - /publications/preprints/
   - /publications/theses/
   - /publications/data/
 ---
 
 {% include base_path %}
 
-## Peer-Reviewed Publications
-  <div class="notice--info social-icons">You can also find my articles on: {% if site.author.googlescholar %}<a href="https://scholar.google.com/citations?user={{ site.author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a> &#124; {% endif %}{% if site.author.researchgate %}<a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}"><i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate</a> &#124; {% endif %}{% if site.author.orcid %}<a href="https://orcid.org/{{ site.author.orcid }}"><i class="ai ai-orcid"></i> ORCID</a> &#124; {% endif %}{% if site.author.scopus %}<a href="https://www.scopus.com/authid/detail.uri?authorId={{ site.author.scopus }}"><i class="ai ai-scopus"></i> Scopus</a>{% endif %}</div>
+<div class="notice--info social-icons">You can also find my articles on: {% if site.author.googlescholar %}<a href="https://scholar.google.com/citations?user={{ site.author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a> &#124; {% endif %}{% if site.author.researchgate %}<a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}"><i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate</a> &#124; {% endif %}{% if site.author.orcid %}<a href="https://orcid.org/{{ site.author.orcid }}"><i class="ai ai-orcid"></i> ORCID</a> &#124; {% endif %}{% if site.author.scopus %}<a href="https://www.scopus.com/authid/detail.uri?authorId={{ site.author.scopus }}"><i class="ai ai-scopus"></i> Scopus</a>{% endif %}</div>
 
+## Submitted Articles & Preprints
+{% for post in site.publications_preprints reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Peer-Reviewed Publications
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}

@@ -58,6 +58,11 @@ redirect_from:
     {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
+## Submitted Articles & Preprints
+<ul>{% for post in site.publications_preprints reversed %}
+    {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 ## Academic Theses
 <ul>{% for post in site.publications_theses reversed %}
     {% include archive-single-cv.html %}
