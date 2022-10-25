@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "The evolution of future Antarctic surface melt using PISM-dEBM-simple | Copenhagen PISM Workshop, Copenhagen, Denmark (online)",
+    55.6867243,
+    12.5700724
+  ],
+  [
     "Hysteresis of the Antarctic Ice Sheet | EGU General Assembly 2019, Vienna, Austria",
     48.2083537,
     16.3725042
