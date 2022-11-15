@@ -28,6 +28,7 @@ Germany
 
 ### Online
 <i class="fab fa-twitter" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://twitter.com/{{ site.author.twitter }}">Twitter</a><br />
+<i class="fab fa-mastodon" aria-hidden="true"></i>&nbsp;&nbsp;<a href="{{ site.author.mastodon.url }}">Mastodon</a><br />
 <i class="fab fa-linkedin" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">LinkedIn</a><br />
 <i class="ai ai-researchgate-square" aria-hidden="true"></i>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}">ResearchGate</a><br />
 <i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user={{ site.author.googlescholar }}">Google Scholar</a><br />

@@ -103,6 +103,9 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "juliusgarbe"
+  mastodon         :
+    id             : "juliusgarbe@mastodon.social"
+    url            : "https://mastodon.social/@juliusgarbe"
   orcid            : "0000-0003-3140-3307"
   phone            : "+49 331 288 2673"
   pinterest        :
