@@ -7,9 +7,6 @@ date: 2020-09-23
 venue: 'Nature'
 ---
 
-## Official press release
-*["Stability Check on Antarctica Reveals High Risk for Long-Term Sea-Level Rise"](https://www.pik-potsdam.de/en/news/latest-news/stability-check-on-antarctica-reveals-high-risk-for-long-term-sea-level-rise "https://www.pik-potsdam.de/en/news/latest-news/stability-check-on-antarctica-reveals-high-risk-for-long-term-sea-level-rise")*
-
 ## Abstract
 <div style="float: left; margin-right: 10px; width: 300px">
     <a href="https://www.nature.com/nature/volumes/585/issues/7826" title="https://www.nature.com/nature/volumes/585/issues/7826"><img src="/images/Cover_24_September_2020.png"></a>
@@ -17,7 +14,13 @@ venue: 'Nature'
 </div>
 More than half of Earth's freshwater resources are held by the Antarctic Ice Sheet, which thus represents by far the largest potential source for global sea-level rise under future warming conditions. Its long-term stability determines the fate of our coastal cities and cultural heritage. Feedbacks between ice, atmosphere, ocean, and the solid Earth give rise to potential nonlinearities in its response to temperature changes. So far, we are lacking a comprehensive stability analysis of the Antarctic Ice Sheet for different amounts of global warming. Here we show that the Antarctic Ice Sheet exhibits a multitude of temperature thresholds beyond which ice loss is irreversible. Consistent with palaeodata we find, using the Parallel Ice Sheet Model, that at global warming levels around 2 degrees Celsius above pre-industrial levels, West Antarctica is committed to long-term partial collapse owing to the marine ice-sheet instability. Between 6 and 9 degrees of warming above pre-industrial levels, the loss of more than 70 per cent of the present-day ice volume is triggered, mainly caused by the surface elevation feedback. At more than 10 degrees of warming above pre-industrial levels, Antarctica is committed to become virtually ice-free. The ice sheet's temperature sensitivity is 1.3 metres of sea-level equivalent per degree of warming up to 2 degrees above pre-industrial levels, almost doubling to 2.4 metres per degree of warming between 2 and 6 degrees and increasing to about 10 metres per degree of warming between 6 and 9 degrees. Each of these thresholds gives rise to hysteresis behaviour: that is, the currently observed ice-sheet configuration is not regained even if temperatures are reversed to present-day levels. In particular, the West Antarctic Ice Sheet does not regrow to its modern extent until temperatures are at least one degree Celsius lower than pre-industrial levels. Our results show that if the Paris Agreement is not met, Antarctica's long-term sea-level contribution will dramatically increase and exceed that of all other sources.
 
-## Media Coverage
+## Full text
+Click here for a free-to-read access to the full article: [https://rdcu.be/b7B4c](https://rdcu.be/b7B4c)
+
+## Official press release
+*["Stability Check on Antarctica Reveals High Risk for Long-Term Sea-Level Rise"](https://www.pik-potsdam.de/en/news/latest-news/stability-check-on-antarctica-reveals-high-risk-for-long-term-sea-level-rise "https://www.pik-potsdam.de/en/news/latest-news/stability-check-on-antarctica-reveals-high-risk-for-long-term-sea-level-rise")*
+
+## Media coverage
 <div style="float: right; margin-left: 10px;">
     <!-- Altmetric -->
     <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
