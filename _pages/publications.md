@@ -20,8 +20,9 @@ redirect_from:
   {% if site.author.googlescholar %}<a href="https://scholar.google.com/citations?user={{ site.author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a> &#124; {% endif %}
   {% if site.author.researchgate %}<a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}"><i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate</a> &#124; {% endif %}
   {% if site.author.orcid %}<a href="https://orcid.org/{{ site.author.orcid }}"><i class="ai ai-orcid"></i> ORCID</a> &#124; {% endif %}
-  {% if site.author.researcherid %}<a href="{{ site.author.researcherid.url }}"><i class="ai ai-researcherid-square"></i> ResearcherID</a> &#124; {% endif %}
-  {% if site.author.scopus %}<a href="https://www.scopus.com/authid/detail.uri?authorId={{ site.author.scopus }}"><i class="ai ai-scopus"></i> Scopus</a>{% endif %}</div>
+  {% if site.author.scopus %}<a href="https://www.scopus.com/authid/detail.uri?authorId={{ site.author.scopus }}"><i class="ai ai-scopus"></i> Scopus</a> &#124; {% endif %}
+  {% if site.author.researcherid %}<a href="{{ site.author.researcherid.url }}"><i class="ai ai-researcherid-square"></i> ResearcherID</a> {% endif %}
+</div>
 
 ## Submitted Articles & Preprints
 {% for post in site.publications_preprints reversed %}
