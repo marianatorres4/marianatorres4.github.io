@@ -304,6 +304,11 @@ body:hover .visually-hidden button {
     color: $orcid-color;
   }
 
+  .ai-researcherid,
+  .ai-researcherid-square {
+    color: $researcherid-color;
+  }
+
   .ai-researchgate,
   .ai-researchgate-square {
     color: $researchgate-color;
