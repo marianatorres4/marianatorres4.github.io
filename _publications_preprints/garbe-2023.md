@@ -1,13 +1,11 @@
 ---
 title: "The evolution of future Antarctic surface melt using PISM-dEBM-simple"
 collection: publications_preprints
-permalink: /publications/preprints/garbe-2022
-citation: "<b>Garbe, J.</b>, Zeitz, M., Krebs-Kanzow, U., Winkelmann, R.: <i>The evolution of future Antarctic surface melt using PISM-dEBM-simple</i>, The Cryosphere Discuss., submitted, 2022."
-date: 2022-12-13
+permalink: /publications/preprints/garbe-2023
+citation: "<b>Garbe, J.</b>, Zeitz, M., Krebs-Kanzow, U., Winkelmann, R.: <i>The evolution of future Antarctic surface melt using PISM-dEBM-simple</i>, The Cryosphere Discuss. [preprint], in review, DOI: <a href='https://doi.org/10.5194/tc-2022-249'>10.5194/tc-2022-249</a>, 2023."
+date: 2023-01-09
 venue: 'The Cryosphere Discussions'
 ---
-
-<!-- citation: "<b>Garbe, J.</b>, Zeitz, M., Krebs-Kanzow, U., Winkelmann, R.: <i>The evolution of future Antarctic surface melt using PISM-dEBM-simple</i>, The Cryosphere Discuss. [preprint], in review, DOI: <a href='https://doi.org/10.5194/tc-2022-249'>10.5194/tc-2022-249</a>, 2022." -->
 
 ## Abstract
 It is virtually certain that Antarctica's contribution to sea-level rise will increase with future warming, although competing mass balance processes hamper accurate quantification of the exact magnitudes. Today, ocean-induced melting underneath the floating ice shelves dominates mass losses, but melting at the surface will gain importance as global warming continues. Meltwater at the ice surface has crucial implications for the ice sheet's stability, as it increases the risk of hydrofracturing and ice-shelf collapse that could cause enhanced glacier outflow into the ocean. Simultaneously, positive feedbacks between the atmosphere and the ice elevation and albedo can accelerate mass losses and increase the ice sheet's sensitivity to warming. However, due to long response times it may take hundreds to thousands of years until the ice sheet fully adjusts to the environmental changes. Therefore, ice sheet model simulations must be computationally fast and capture the relevant feedbacks, including the ones at the ice–atmosphere interface.
