@@ -55,6 +55,11 @@ var addressPoints = [
     -122.419906
   ],
   [
+    "On the current and future stability of Antarctic grounding lines | TiPACCs Annual Meeting 2022, Grenoble, France",
+    45.1875602,
+    5.7357819
+  ],
+  [
     "Long-term stability of the Antarctic Ice Sheet | AGU Fall Meeting 2019, San Francisco, CA, USA",
     37.7790262,
     -122.419906
