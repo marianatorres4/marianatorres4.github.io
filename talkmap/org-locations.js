@@ -50,6 +50,11 @@ var addressPoints = [
     13.0591397
   ],
   [
+    "The evolution of future Antarctic surface melt using PISM-dEBM-simple | Potsdam Institute for Climate Impact Research, Potsdam, Germany",
+    52.4009309,
+    13.0591397
+  ],
+  [
     "The Hysteresis of the Antarctic Ice Sheet | AGU Fall Meeting 2020, San Francisco, CA, USA (online)",
     37.7790262,
     -122.419906
