@@ -13,6 +13,13 @@ redirect_from:
 
 {% include base_path %}
 
+## Research Interests
+- Ice sheet / ice shelf modeling (<i class="fas fa-arrow-circle-right"></i> co-development of [PISM](/research/#pism "/research/#pism"))
+- Antarctic ice sheet stability and future sea-level change (<i class="fas fa-arrow-circle-right"></i> [Urruty, Hill, Reese et al., 2022](/publications/preprints/urruty-hill-reese-2022 "/publications/preprints/urruty-hill-reese-2022"); [Reese et al., 2023](/publications/preprints/reese-2023 "/publications/preprints/reese-2023"))
+- Hysteresis behavior of the Antarctic ice sheet and Antarctic tipping points (<i class="fas fa-arrow-circle-right"></i> [Garbe et al., 2020](/publications/articles/garbe-2020 "/publications/articles/garbe-2020"))
+- Climate and socio-economic tipping interactions (<i class="fas fa-arrow-circle-right"></i> [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes"))
+- Earth system resilience (<i class="fas fa-arrow-circle-right"></i> [ERAlab](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience"))
+
 ## PhD Project
 My research focuses on the long-term stability and potential critical thresholds - so-called 'tipping points' - of the Antarctic ice sheet and their consequences for long-term sea-level rise under the scope of future global warming. In particular, I investigate how the stability of the Antarctic ice sheet is affected by the influence of interacting tipping elements in the global climate system, such as the Greenland ice sheet or the Atlantic meridional overturning circulation. The aim of my PhD project is to assess whether the interactions between the Greenland and Antarctic ice sheets increase the likelihood that a tipping of the Greenland ice sheet enhances the tipping potential of the Antarctic ice sheet.
 
@@ -20,13 +27,6 @@ My research focuses on the long-term stability and potential critical thresholds
 
 To get a better idea of my research focus, watch this short introduction video about the TiPACCs project:
 {% include video id="gD7N8Z9PxqU" provider="youtube" %}
-
-## Research Interests
-- Ice sheet / ice shelf modeling (<i class="fas fa-arrow-circle-right"></i> co-development of [PISM](/research/#pism "/research/#pism"))
-- Antarctic ice sheet stability and future sea-level change
-- Hysteresis behavior of the Antarctic ice sheet and Antarctic tipping points (<i class="fas fa-arrow-circle-right"></i> [Garbe et al., 2020](/publications/articles/garbe-2020 "/publications/articles/garbe-2020"))
-- Climate and socio-economic tipping interactions (<i class="fas fa-arrow-circle-right"></i> [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes"))
-- Earth system resilience (<i class="fas fa-arrow-circle-right"></i> [ERAlab](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience"))
 
 ## Models
 ### PISM
