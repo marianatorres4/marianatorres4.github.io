@@ -1,9 +1,9 @@
 ---
 title: "Exploring risks and benefits of overshooting a 1.5°C carbon budget over space and time"
 collection: publications_preprints
-permalink: /publications/preprints/bauer-2022
-citation: "Bauer, N., Keller, D. P., <b>Garbe, J.</b>, Karstens, K., Piontek, F., von Bloh, W., Thiery, W., Zeitz, M., Mengel, M., Strefler, J., Thonicke, K., and Winkelmann, R.: <i>Exploring risks and benefits of overshooting a 1.5°C carbon budget over space and time</i>, Environmental Research Letters, in review, 2022."
-date: 2022-09-08
+permalink: /publications/preprints/bauer-2023
+citation: "Bauer, N., Keller, D. P., <b>Garbe, J.</b>, Karstens, K., Piontek, F., von Bloh, W., Thiery, W., Zeitz, M., Mengel, M., Strefler, J., Thonicke, K., and Winkelmann, R.: <i>Exploring risks and benefits of overshooting a 1.5°C carbon budget over space and time</i>, Environmental Research Letters, accepted, 2023."
+date: 2023-04-17
 venue: 'Environmental Research Letters'
 ---
 
