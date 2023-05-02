@@ -14,9 +14,10 @@ redirect_from:
 {% include base_path %}
 
 ## Research Interests
-- Ice sheet / ice shelf modeling (<i class="fas fa-arrow-circle-right"></i> co-development of [PISM](/research/#pism "/research/#pism"))
-- Antarctic ice sheet stability and future sea-level change (<i class="fas fa-arrow-circle-right"></i> [Urruty, Hill, Reese et al., 2022](/publications/preprints/urruty-hill-reese-2022 "/publications/preprints/urruty-hill-reese-2022"); [Reese et al., 2023](/publications/preprints/reese-2023 "/publications/preprints/reese-2023"))
-- Hysteresis behavior of the Antarctic ice sheet and Antarctic tipping points (<i class="fas fa-arrow-circle-right"></i> [Garbe et al., 2020](/publications/articles/garbe-2020 "/publications/articles/garbe-2020"))
+- Numerical ice sheet modeling (<i class="fas fa-arrow-circle-right"></i> co-development of [PISM](/research/#pism "/research/#pism"))
+- Antarctic Ice Sheet stability and future sea-level rise (<i class="fas fa-arrow-circle-right"></i> e.g., [Urruty/Hill/Reese et al., 2022](/publications/preprints/urruty-hill-reese-2022 "/publications/preprints/urruty-hill-reese-2022"); [Reese et al., 2023](/publications/preprints/reese-2023 "/publications/preprints/reese-2023"); [Bauer et al., 2023](/publications/articles/bauer-2023 "/publications/articles/bauer-2023"))
+- Tipping points and hysteresis behavior of the Antarctic Ice Sheet (<i class="fas fa-arrow-circle-right"></i> [Garbe et al., 2020](/publications/articles/garbe-2020 "/publications/articles/garbe-2020"))
+- Surface melting in Antarctica (<i class="fas fa-arrow-circle-right"></i> [Garbe et al., 2023](/publications/preprints/garbe-2023 "/publications/preprints/garbe-2023"))
 - Climate and socio-economic tipping interactions (<i class="fas fa-arrow-circle-right"></i> [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes"))
 - Earth system resilience (<i class="fas fa-arrow-circle-right"></i> [ERAlab](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience"))
 
