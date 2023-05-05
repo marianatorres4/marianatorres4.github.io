@@ -66,5 +66,11 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
+    {% if post.doi %}
+      <span class="__dimensions_badge_embed__" data-doi="{{ post.doi }}" data-style="large_rectangle" data-hide-zero-citations="false"></span>
+      <br />
+      <span data-doi="{{ post.doi }}" data-badge-type="donut" data-badge-popover="right" data-condensed="true" class="altmetric-embed" data-hide-no-mentions="true"></span>
+    {% endif %}
+
   </article>
 </div>

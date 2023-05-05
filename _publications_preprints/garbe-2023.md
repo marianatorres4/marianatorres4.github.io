@@ -3,6 +3,7 @@ title: "The evolution of future Antarctic surface melt using PISM-dEBM-simple"
 collection: publications_preprints
 permalink: /publications/preprints/garbe-2023
 citation: "<b>Garbe, J.</b>, Zeitz, M., Krebs-Kanzow, U., Winkelmann, R.: <i>The evolution of future Antarctic surface melt using PISM-dEBM-simple</i>, The Cryosphere Discuss. [preprint], in review, DOI: <a href='https://doi.org/10.5194/tc-2022-249'>10.5194/tc-2022-249</a>, 2023."
+doi: 10.5194/tc-2022-249
 date: 2023-01-09
 venue: 'The Cryosphere Discussions'
 ---
