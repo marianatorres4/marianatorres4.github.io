@@ -1,7 +1,11 @@
 ---
 permalink: /contact/
 title: "Contact"
-excerpt: "Contact details and some links."
+excerpt: "Contact details and online profiles."
+header:
+  overlay_image: header/header5.jpg
+  overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
+  caption: "Photo: A. Künstle"
 author_profile: true
 redirect_from: 
   - 
