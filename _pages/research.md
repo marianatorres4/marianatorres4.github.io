@@ -22,11 +22,11 @@ redirect_from:
 - Earth system resilience (<i class="fas fa-arrow-circle-right"></i> [ERAlab](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience"))
 
 ## PhD Project
-My research focuses on the long-term stability and potential critical thresholds - so-called 'tipping points' - of the Antarctic ice sheet and their consequences for long-term sea-level rise under the scope of future global warming. In particular, I investigate how the stability of the Antarctic ice sheet is affected by the influence of interacting tipping elements in the global climate system, such as the Greenland ice sheet or the Atlantic meridional overturning circulation. The aim of my PhD project is to assess whether the interactions between the Greenland and Antarctic ice sheets increase the likelihood that a tipping of the Greenland ice sheet enhances the tipping potential of the Antarctic ice sheet.
+My research focuses on the long-term stability and critical thresholds - so-called 'tipping points' - of the Antarctic Ice Sheet, as well as their consequences for long-term sea-level rise under ongoing global warming. In particular, I investigate how the stability of the Antarctic Ice Sheet is affected by the influence of interacting tipping elements in the Earth's climate system, such as the Greenland Ice Sheet or the Atlantic meridional overturning circulation (AMOC). The aim of my PhD project is to assess whether the interactions between the Greenland and Antarctic ice sheets increase the likelihood that a tipping of the Greenland Ice Sheet enhances the tipping potential of the Antarctic Ice Sheet.
 
-{% include figure image_path="/images/Fig4_pressrelease.png" class="half" style="display:block;text-align:center;" alt="Simulated equilibrium states of the Antarctic Ice Sheet" caption="Simulated equilibrium states of the Antarctic Ice Sheet (from [Garbe et al., 2020](/publications/articles/garbe-2020 '/publications/articles/garbe-2020'))." %}
+{% include figure image_path="/images/Fig4.png" style="display:block;text-align:center;" alt="Simulated equilibrium states of the Antarctic Ice Sheet at different levels of global warming" caption="Simulated equilibrium states of the Antarctic Ice Sheet at different levels of global warming (from [Garbe et al., 2020](/publications/articles/garbe-2020 '/publications/articles/garbe-2020'))." %}
 
-To get a better idea of my research focus, watch this short introduction video about the TiPACCs project:
+To get a better idea of my research focus, watch this short introduction video about the [TiPACCs](https://www.tipaccs.eu "https://www.tipaccs.eu") project on tipping points in Antarctic climate components, in which I am involved:
 {% include video id="gD7N8Z9PxqU" provider="youtube" %}
 
 ## Models
