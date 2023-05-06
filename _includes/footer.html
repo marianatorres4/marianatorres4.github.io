@@ -9,10 +9,10 @@
       <li><a href="{{ site.author.mastodon.url }}"><i class="fab fa-mastodon" aria-hidden="true"></i> Mastodon</a></li>
     {% endif %}
     {% if site.twitter.username %}
-      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-twitter" aria-hidden="true"></i> Twitter</a></li>
     {% endif %}
     {% if site.facebook.username %}
-      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fab fa-facebook" aria-hidden="true"></i> Facebook</a></li>
     {% endif %}
     {% if site.author.github %}
       <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
@@ -20,7 +20,7 @@
     {% if site.author.bitbucket %}
       <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fas fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fas fa-rss" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     <!-- for colored icon, use: class="fa fa-fw fa-rss-square" -->
   </ul>
 </div>
