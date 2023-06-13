@@ -35,6 +35,11 @@ var addressPoints = [
     16.3725042
   ],
   [
+    "Has the (West) Antarctic Ice Sheet already tipped? | EGU General Assembly 2023, Vienna, Austria",
+    48.2083537,
+    16.3725042
+  ],
+  [
     "The Hysteresis of the Antarctic Ice Sheet | Potsdam Institute for Climate Impact Research, Potsdam, Germany (online)",
     52.4009309,
     13.0591397
@@ -48,6 +53,11 @@ var addressPoints = [
     "Hysteresis Behavior of the Antarctic Ice Sheet | Potsdam Institute for Climate Impact Research, Potsdam, Germany",
     52.4009309,
     13.0591397
+  ],
+  [
+    "Identifying thresholds of ocean-induced Antarctic ice loss through idealized ice-sheet model simulations | EGU General Assembly 2023, Vienna, Austria",
+    48.2083537,
+    16.3725042
   ],
   [
     "The evolution of future Antarctic surface melt using PISM-dEBM-simple | Potsdam Institute for Climate Impact Research, Potsdam, Germany",
@@ -68,5 +78,10 @@ var addressPoints = [
     "Long-term stability of the Antarctic Ice Sheet | AGU Fall Meeting 2019, San Francisco, CA, USA",
     37.7790262,
     -122.419906
+  ],
+  [
+    "The evolution of future Antarctic surface melt using PISM-dEBM-simple | FRISP 2023, Stalheim, Voss, Norway",
+    60.8362639,
+    6.6798972
   ]
 ];
