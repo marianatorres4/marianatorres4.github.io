@@ -13,6 +13,8 @@ redirect_from:
 
 {% include base_path %}
 
+{% include toc title="Jump to" icon="fas fa-file-alt" %}
+
 ## Research Interests
 - Numerical ice sheet modeling (<i class="fas fa-arrow-circle-right"></i> co-development of [PISM](/research/#pism "/research/#pism"))
 - Antarctic Ice Sheet stability and future sea-level rise (<i class="fas fa-arrow-circle-right"></i> e.g., [Hill/Urruty/Reese et al., 2023](/publications/preprints/hill-urruty-reese-2023 "/publications/preprints/hill-urruty-reese-2023"); [Reese et al., 2023](/publications/preprints/reese-2023 "/publications/preprints/reese-2023"); [Bauer et al., 2023](/publications/articles/bauer-2023 "/publications/articles/bauer-2023"))

@@ -14,6 +14,8 @@ redirect_from:
 
 {% include base_path %}
 
+{% include toc title="Jump to" icon="fas fa-file-alt" %}
+
 ## Conference Contributions & Talks
 {% if site.talkmap_link == true %}
   <i class="fas fa-map-marked-alt"></i> You can also see a [map of all the places I've given a talk](/outreach/talkmap/).
