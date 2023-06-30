@@ -3,7 +3,6 @@ title: "Antarctic Ice Sheet tipping in the last 800 kyr warns of future ice loss
 collection: publications_preprints
 permalink: /publications/preprints/chandler-2023
 citation: "Chandler, D. M., Langebroek, P. M., Reese, R., Albrecht, T., <b>Garbe, J.</b>, Winkelmann, R.: <i>Antarctic Ice Sheet tipping in the last 800 kyr warns of future ice loss</i>, in review, DOI: <a href='https://doi.org/10.21203/rs.3.rs-3042739/v1'>10.21203/rs.3.rs-3042739/v1</a>, 2023."
-doi: 10.21203/rs.3.rs-3042739/v1
 date: 2023-06-23
 venue: 'In review'
 ---
