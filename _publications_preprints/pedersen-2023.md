@@ -2,9 +2,9 @@
 title: "Earth's hypsometry and what it tells us about global sea level: is the present an anomaly?"
 collection: publications_preprints
 permalink: /publications/preprints/pedersen-2023
-citation: "Pedersen, V. K., Gomez, N., Mitrovica, J. X., Jungdal-Olesen, G., Andersen, J. L., <b>Garbe, J.</b>, Aschwanden, A., Winkelmann, R.: <i>Earth's hypsometry and what it tells us about global sea level: is the present an anomaly?</i>, submitted, 2023."
-date: 2023-06-29
-venue: 'Submitted'
+citation: "Pedersen, V. K., Gomez, N., Mitrovica, J. X., Jungdal-Olesen, G., Andersen, J. L., <b>Garbe, J.</b>, Aschwanden, A., Winkelmann, R.: <i>Earth's hypsometry and what it tells us about global sea level: is the present an anomaly?</i>, in review, 2023."
+date: 2023-07-23
+venue: 'In review'
 ---
 
 ## Abstract
