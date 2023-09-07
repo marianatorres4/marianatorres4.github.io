@@ -1,7 +1,7 @@
 ---
 title: "PISM version as used in Bauer et al. (ERL, 2023) publication (Version v1.1-overshoots-antarctica)"
 collection: publications_data
-permalink: /publications/data/garbe-2023
+permalink: /publications/data/garbe-2023a
 citation: "<b>Garbe, J.</b>, other PISM authors: <i>PISM version as used in Bauer et al. (ERL, 2023) publication (Version v1.1-overshoots-antarctica)</i>, Zenodo, DOI: <a href='https://doi.org/10.5281/zenodo.7777927'>10.5281/zenodo.7777927</a>, 2023."
 date: 2023-03-28
 venue: 'Zenodo'
