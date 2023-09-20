@@ -19,5 +19,12 @@ Observations of ocean-driven grounding-line retreat in the Amundsen Sea Embaymen
 - Northumbria University: *["West Antarctic ice sheet has not reached its tipping point towards irreversible collapse – yet, new research finds"](https://www.northumbria.ac.uk/about-us/news-events/news/west-antarctic-ice-sheet-has-not-reached-its-tipping-point-towards-irreversible-collapse-yet-new-research-finds/ "https://www.northumbria.ac.uk/about-us/news-events/news/west-antarctic-ice-sheet-has-not-reached-its-tipping-point-towards-irreversible-collapse-yet-new-research-finds/")*
 - Université Grenoble: *["Perte de glace de la calotte glaciaire de l’Antarctique : son futur n’est pas encore écrit"](https://www.univ-grenoble-alpes.fr/actualites/a-la-une/actualites-recherche/perte-de-glace-de-la-calotte-glaciaire-de-l-antarctique-son-futur-n-est-pas-encore-ecrit-1292104.kjsp "https://www.univ-grenoble-alpes.fr/actualites/a-la-une/actualites-recherche/perte-de-glace-de-la-calotte-glaciaire-de-l-antarctique-son-futur-n-est-pas-encore-ecrit-1292104.kjsp")*
 
+## Media coverage
+Selected international media articles:
+
+- English: [Euronews](https://www.euronews.com/2023/09/07/antarctica-latest-report-says-melting-sea-ice-not-yet-irreversible "https://www.euronews.com/2023/09/07/antarctica-latest-report-says-melting-sea-ice-not-yet-irreversible"), [Innovation](https://www.innovationnewsnetwork.com/damage-west-antarctic-ice-sheet-could-still-be-reversible/37123/ "https://www.innovationnewsnetwork.com/damage-west-antarctic-ice-sheet-could-still-be-reversible/37123/")
+- German: [Der Standard](https://www.derstandard.at/story/3000000186187/noch-besteht-die-chance-einen-kipppunkt-in-der-antarktis-nicht-zu-ueberschreiten "https://www.derstandard.at/story/3000000186187/noch-besteht-die-chance-einen-kipppunkt-in-der-antarktis-nicht-zu-ueberschreiten")
+- French: [Reporterre](https://reporterre.net/En-Antarctique-les-glaciers-au-bord-du-gouffre "https://reporterre.net/En-Antarctique-les-glaciers-au-bord-du-gouffre")
+
 ## Video
 {% include video id="wsSD_vuBz-s" provider="youtube" %}
