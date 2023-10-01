@@ -80,6 +80,11 @@ var addressPoints = [
     -122.419906
   ],
   [
+    "The uncertain future of ice melt in Antarctica | REKLIM-Regionalkonferenz 2023, Bremen, Germany",
+    53.0758196,
+    8.8071646
+  ],
+  [
     "The evolution of future Antarctic surface melt using PISM-dEBM-simple | FRISP 2023, Stalheim, Voss, Norway",
     60.8362639,
     6.6798972
