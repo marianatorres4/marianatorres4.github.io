@@ -19,7 +19,7 @@ redirect_from:
 - Numerical ice sheet modeling (<i class="fas fa-arrow-circle-right"></i> co-development of [PISM](/research/#pism "/research/#pism"))
 - Antarctic Ice Sheet stability and future sea-level rise (<i class="fas fa-arrow-circle-right"></i> e.g., [Hill et al., 2023](/publications/articles/hill-2023 "/publications/articles/hill-2023"); [Reese et al., 2023](/publications/articles/reese-2023 "/publications/articles/reese-2023"); [Bauer et al., 2023](/publications/articles/bauer-2023 "/publications/articles/bauer-2023"))
 - Tipping points and hysteresis behavior of the Antarctic Ice Sheet (<i class="fas fa-arrow-circle-right"></i> [Garbe et al., 2020](/publications/articles/garbe-2020 "/publications/articles/garbe-2020"); [Chandler et al., 2023](/publications/preprints/chandler-2023 "/publications/preprints/chandler-2023"))
-- Surface melting in Antarctica (<i class="fas fa-arrow-circle-right"></i> [Garbe et al., 2023](/publications/preprints/garbe-2023 "/publications/preprints/garbe-2023"))
+- Surface melting in Antarctica (<i class="fas fa-arrow-circle-right"></i> [Garbe et al., 2023](/publications/garbe-2023 "/publications/garbe-2023"))
 - Climate and socio-economic tipping interactions (<i class="fas fa-arrow-circle-right"></i> [DominoES](https://www.pik-potsdam.de/dominoes "https://www.pik-potsdam.de/dominoes"))
 - Earth system resilience (<i class="fas fa-arrow-circle-right"></i> [ERAlab](https://www.pik-potsdam.de/earthresilience "https://www.pik-potsdam.de/earthresilience"))
 
