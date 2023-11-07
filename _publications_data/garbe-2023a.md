@@ -9,6 +9,10 @@ venue: 'Zenodo'
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7777927.svg)](https://doi.org/10.5281/zenodo.7777927)
 
-This is the [PISM](https://www.pism.io/ "https://www.pism.io/") code version used for the Antarctic Ice Sheet overshoots simulations published and discussed in [Bauer, N., Keller, D. P., Garbe, J., Karstens, K., Piontek, F., von Bloh, W., Thiery, W., Zeitz, M., Mengel, M., Strefler, J., Thonicke, K., and Winkelmann, R. Exploring risks and benefits of overshooting a 1.5°C carbon budget over space and time. Environ. Res. Lett. 18(054015), 2023.](https://doi.org/10.1088/1748-9326/accd83 "https://doi.org/10.1088/1748-9326/accd83")<br />
-The code is based on PISM release `v1.1`, but contains several improvements and modifications.<br />
+This is the [PISM](https://www.pism.io/ "https://www.pism.io/") code version used for the Antarctic Ice Sheet overshoots simulations published and discussed in 
+
+[Bauer, N., Keller, D. P., Garbe, J., Karstens, K., Piontek, F., von Bloh, W., Thiery, W., Zeitz, M., Mengel, M., Strefler, J., Thonicke, K., and Winkelmann, R. Exploring risks and benefits of overshooting a 1.5°C carbon budget over space and time. Environ. Res. Lett. 18(054015), 2023](https://doi.org/10.1088/1748-9326/accd83 "https://doi.org/10.1088/1748-9326/accd83").
+
+The code is based on PISM release `v1.1`, but contains several improvements and modifications.
+
 In case of questions, feel free to contact me at [{{ site.author.email }}](mailto:{{ site.author.email }}).
