@@ -5,6 +5,16 @@ var addressPoints = [
     12.5700724
   ],
   [
+    "Present-day Antarctica with PISM: Lessons learned from ISMIP6 and LARMIP-2 | TiPACCs Annual Meeting 2020, Potsdam, Germany (online)",
+    52.4009309,
+    13.0591397
+  ],
+  [
+    "The Hysteresis of the Antarctic Ice Sheet | TIPMIP Workshop, D\u00f6llnsee, Germany",
+    53.00648485,
+    13.62495209992918
+  ],
+  [
     "Hysteresis of the Antarctic Ice Sheet | EGU General Assembly 2019, Vienna, Austria",
     48.2083537,
     16.3725042
@@ -23,6 +33,11 @@ var addressPoints = [
     "Hysteresis behaviour of the Antarctic Ice Sheet with the Parallel Ice Sheet Model | EGU General Assembly 2018, Vienna, Austria",
     48.2083537,
     16.3725042
+  ],
+  [
+    "Antarctic ice sheet and global climate \u2013 what needs to be done now? | Antarctic Policy Event, Brussels, Belgium",
+    50.8550018,
+    4.3512333761166175
   ],
   [
     "Tipping of the Antarctic Ice Sheet influenced by Greenland ice loss | Potsdam Institute for Climate Impact Research, Potsdam, Germany",
@@ -78,6 +93,11 @@ var addressPoints = [
     "Long-term stability of the Antarctic Ice Sheet | AGU Fall Meeting 2019, San Francisco, CA, USA",
     37.7790262,
     -122.419906
+  ],
+  [
+    "The evolution of future Antarctic surface melt using PISM-dEBM-simple | TiPACCs Annual Meeting 2023, Brussels, Belgium",
+    50.8550018,
+    4.3512333761166175
   ],
   [
     "The uncertain future of ice melt in Antarctica | REKLIM-Regionalkonferenz 2023, Bremen, Germany",
