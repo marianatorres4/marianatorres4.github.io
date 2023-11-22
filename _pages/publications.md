@@ -18,12 +18,13 @@ redirect_from:
 
 {% include toc title="Jump to" icon="fas fa-file-alt" %}
 
-<div class="notice--info social-icons">You can also find my articles on: 
-  {% if site.author.googlescholar %}<a href="https://scholar.google.com/citations?user={{ site.author.googlescholar }}"><i class="fas fa-graduation-cap"></i> Google Scholar</a> &#124; {% endif %}
-  {% if site.author.researchgate %}<a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}"><i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate</a> &#124; {% endif %}
-  {% if site.author.orcid %}<a href="https://orcid.org/{{ site.author.orcid }}"><i class="ai ai-orcid"></i> ORCID</a> &#124; {% endif %}
-  {% if site.author.scopus %}<a href="https://www.scopus.com/authid/detail.uri?authorId={{ site.author.scopus }}"><i class="ai ai-scopus"></i> Scopus</a> &#124; {% endif %}
-  {% if site.author.researcherid %}<a href="{{ site.author.researcherid.url }}"><i class="ai ai-researcherid-square"></i> ResearcherID</a> {% endif %}
+<div class="notice--info social-icons">
+  <h4 class="no_toc" style="padding-bottom: 6px;">You can also find my articles on:</h4>
+  {% if site.author.googlescholar %}<a href="https://scholar.google.com/citations?user={{ site.author.googlescholar }}" class="btn btn--inverse"><i class="fas fa-graduation-cap"></i> Google Scholar</a>{% endif %}
+  {% if site.author.researchgate %}<a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}" class="btn btn--inverse"><i class="ai ai-researchgate-square" aria-hidden="true"></i> ResearchGate</a> {% endif %}
+  {% if site.author.orcid %}<a href="https://orcid.org/{{ site.author.orcid }}" class="btn btn--inverse"><i class="ai ai-orcid"></i> ORCID</a> {% endif %}
+  {% if site.author.scopus %}<a href="https://www.scopus.com/authid/detail.uri?authorId={{ site.author.scopus }}" class="btn btn--inverse"><i class="ai ai-scopus"></i> Scopus</a> {% endif %}
+  {% if site.author.researcherid %}<a href="{{ site.author.researcherid.url }}" class="btn btn--inverse"><i class="ai ai-researcherid-square"></i> ResearcherID</a> {% endif %}
 </div>
 
 ## Submitted Articles & Preprints
