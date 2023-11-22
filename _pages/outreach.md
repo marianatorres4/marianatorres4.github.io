@@ -26,6 +26,9 @@ redirect_from:
 {% endfor %}
 
 ## Workshops & Schools
+<h2 class="archive__item-title" itemprop="headline"><a href="https://www.we-heraeus-stiftung.de/veranstaltungen/addressing-key-uncertainties-in-modelling-physical-and-ecological-tipping-dynamics-in-the-earth-system-towards-tipmip/" title="https://www.we-heraeus-stiftung.de/veranstaltungen/addressing-key-uncertainties-in-modelling-physical-and-ecological-tipping-dynamics-in-the-earth-system-towards-tipmip/" target="_blank">Addressing Key Uncertainties in Modelling Physical and Ecological Tipping Dynamics in the Earth System (towards TIPMIP)</a></h2>
+<p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i> November 05-08, 2023 | Döllnsee, Germany</p>
+
 <h2 class="archive__item-title" itemprop="headline">Copenhagen PISM Workshop</h2>
 <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i> October 24-25, 2022 | Copenhagen, Denmark</p>
 
