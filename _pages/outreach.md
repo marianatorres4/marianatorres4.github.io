@@ -3,9 +3,9 @@ permalink: /outreach/
 title: "Science Outreach"
 excerpt: "List of past and upcoming scientific talks, conference presentations, workshops, and taught courses."
 header:
-  overlay_image: header/header4.jpg
+  overlay_image: header/header_reklim_KerstinRolfes.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
-  caption: "Photo: J. Garbe"
+  caption: "Photo: K. Rolfes"
 author_profile: true
 redirect_from: 
   - /outreach/talks/
