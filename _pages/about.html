@@ -61,12 +61,19 @@ redirect_from:
             <strong>Nature Cover 09/2020 <em>"Point of no Return"</em>:</strong> Study on the hysteresis of the Antarctic Ice Sheet <i class="fas fa-arrow-circle-right"></i> <a href="/publications/articles/garbe-2020" title="/publications/articles/garbe-2020">Garbe et al. (2020)</a>
         </div>
 
-        <!-- Twitter feed -->
-        <div style="text-align: center;">
-            <a class="twitter-timeline" data-height="500" href="https://twitter.com/juliusgarbe?ref_src=twsrc%5Etfw">Tweets by juliusgarbe</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> <!-- data-theme="dark" data-width="220"  -->
-            <br />
-            <a href="https://twitter.com/juliusgarbe?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @juliusgarbe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        <!-- Mastodon feed -->
+        <div class="notice social-icons">
+            <h2 style="margin-top: 0px; margin-bottom: 0px;"><i class="fab fa-mastodon" aria-hidden="true"></i> Mastodon Feed</h2>
+            <iframe allowfullscreen sandbox="allow-top-navigation allow-scripts allow-popups allow-popups-to-escape-sandbox" height="500" width="100%" style="border: none;" src="https://mastofeed.com/apiv2/feed?userurl={{ site.author.mastodon.url }}&theme=light&size=75&header=false&replies=false&boosts=false"></iframe>
+            <div style="text-align: center; margin-top: 10px;"><a href="{{ site.author.mastodon.url }}" class="btn" style="background-color: #563acc;">Follow {{ site.author.mastodon.id }}</a></div>
         </div>
+
+        <!-- Twitter feed (deprecated) 
+        <div style="text-align: center;">
+            <a class="twitter-timeline" data-height="500" href="https://twitter.com/{{ site.author.twitter }}?ref_src=twsrc%5Etfw">Tweets by {{ site.author.twitter }}</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <br />
+            <a href="https://twitter.com/{{ site.author.twitter }}?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @{{ site.author.twitter }}</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div> -->
 
     </div>
 
