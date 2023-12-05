@@ -39,9 +39,9 @@ redirect_from:
 
 ## Policy Reports
 <div class="list__item">
-<h2 class="archive__item-title" itemprop="headline"><a href="https://global-tipping-points.org" title="https://global-tipping-points.org" target="_blank">Global Tipping Points Report 2023</a></h2>
-<p class="page__meta"><i class="fa fa-book-open" aria-hidden="true"></i> Global Systems Institute / University of Exeter | 2023</p>
-Lenton, T., et al.: <i>Global Tipping Points Report 2023</i>, Global Systems Institute / University of Exeter, <a href="https://global-tipping-points.org" title="https://global-tipping-points.org" target="_blank">https://global-tipping-points.org</a>, in press, 2023.
+<h2 class="archive__item-title" itemprop="headline"><a href="https://global-tipping-points.org" title="https://global-tipping-points.org" target="_blank">The Global Tipping Points Report 2023</a></h2>
+<p class="page__meta"><i class="fa fa-book-open" aria-hidden="true"></i> University of Exeter | 2023</p>
+Lenton, T.M., Armstrong McKay, D.I., Loriani, S., Abrams, J.F., Lade, S.J., Donges, J.F., Milkoreit, M., Powell, T., Smith, S.R., Zimm, C., Buxton, J.E., Laybourn, L., Ghadiali, A., Dyke, J.G. (eds): <i>The Global Tipping Points Report 2023</i>, University of Exeter, Exeter, UK, <a href="https://global-tipping-points.org" title="https://global-tipping-points.org" target="_blank">https://global-tipping-points.org</a>, in press, 2023.
 </div>
 
 ## Non-Peer-Reviewed Publications
