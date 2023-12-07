@@ -1,6 +1,6 @@
-# juliusgarbe.github.io
+# marianatorres4.github.io
 
-This repository contains the source code for my personal website at https://juliusgarbe.github.io/.
+This repository contains the source code for my personal website at https://marianatorres4.github.io
 
 ## License
 Except where otherwise noted, the content of the project itself is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/).
