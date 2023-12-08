@@ -63,7 +63,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "mtorres.jpg" # Open Graph/Twitter default site image
+og_image                 : "splash.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : *name # sidebar name
-  avatar           : "headshot.jpg"
+  avatar           : "mtorres.jpg"
   bio              : "Postbaccalaureate research fellow at the University of California, Irvine" # sidebar bio
   location         : "Irvine, CA"
   employer         : "University of California, Irvine"
