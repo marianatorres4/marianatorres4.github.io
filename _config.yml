@@ -83,8 +83,8 @@ analytics:
 # Site Author
 author:
   name             : *name # sidebar name
-  avatar           : "avatar/mtorres.jpg"
-  bio              : "Postbaccalaureate researcher studying marine heatwaves!" # sidebar bio
+  avatar           : "mtorres.jpg"
+  bio              : "Postbaccalaureate research fellow at UC Irvine" # sidebar bio
   location         : "Irvine, California"
   employer         : # "UC Irvine"
   googlescholar    : "PHdduOoAAAAJ"
