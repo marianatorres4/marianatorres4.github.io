@@ -12,7 +12,7 @@ title                    : "Mariana I. Torres" # site title
 title_separator          : "&#124;"
 name                     : &name "Mariana Torres"
 description              : &description "I am a postbaccalaureate research fellow at the University of California, Irvine in Ocean and Climate Dynamics working group" # used predominantly in meta descriptions for improving SEO
-url                      : "marianatorres4.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://marianatorres4.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marianatorres4/marianatorres4.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
