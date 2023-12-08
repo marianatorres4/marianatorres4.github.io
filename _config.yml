@@ -59,12 +59,12 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "juliusgarbe"
+  username               : &twitter "gaiafour"
 facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "avatar/IMG_6274.JPG" # Open Graph/Twitter default site image
+og_image                 : "avatar/mariana_torres.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
